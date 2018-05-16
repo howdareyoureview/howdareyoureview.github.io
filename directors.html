@@ -9,11 +9,11 @@ title: Directors
 {% for director in site.directors %}
   <div class="archive-group">
     {% capture director_name %}{{ director | first }}{% endcapture %}
-    <div id="#{{ director_name | slugize }}"></div>
+    <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     
     <h3 class="category-head">{{ director_name }}</h3>
-    <a name="{{ director_name | slugize }}"></a>
+    <a name="{{ category_name | slugize }}"></a>
     {% for post in site.directors[director_name] %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
