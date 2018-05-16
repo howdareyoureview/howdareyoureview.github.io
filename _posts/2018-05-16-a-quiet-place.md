@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review A Quiet Place"
-categories: [Zach Saul, Emily Blunt]
+categories: [Zach Saul, Emily Bluntt]
 directors: [Jon Krasinski, Man]
 ---
 
