@@ -16,6 +16,17 @@ layout: default
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
+<div class="post-directors">
+  {% if post %}
+    {% assign directors = post.directors %}
+  {% else %}
+    {% assign directors = page.directors %}
+  {% endif %}
+  {% for director in directors %}
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
