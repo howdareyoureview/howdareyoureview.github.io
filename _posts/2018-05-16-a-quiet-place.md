@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: A Quiet Place"
+title: "Review A Quiet Place"
 categories: [Zach Saul, Thriller, Jon Krasinski, Emily Blunt]
 ---
 
