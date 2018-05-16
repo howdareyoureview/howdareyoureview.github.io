@@ -23,7 +23,7 @@ layout: default
     {% assign directors = page.directors %}
   {% endif %}
   {% for director in directors %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  <a href="{{site.baseurl}}/directors/#{{director|slugize}}">{{director}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
