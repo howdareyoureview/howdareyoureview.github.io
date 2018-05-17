@@ -6,27 +6,28 @@ layout: default
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
-<div class="post-directors">
-  {% if post %}
-    {% assign directors = post.category %}
-  {% else %}
-    {% assign directors = page.category %}
-  {% endif %}
-  {% for director in directors %}
-  <a href="{{site.baseurl}}/directors/#{{director|slugize}}">{{director}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
+      {% if post %}
+        {% assign categories = post.categories %}
+      {% else %}
+        {% assign categories = page.categories %}
+      {% endif %}
+      {% for category in categories %}
+      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+      {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+    </div>
+  <div class="post-directors">
+    {% if post %}
+      {% assign directors = post.director %}
+    {% else %}
+      {% assign directors = page.director %}
+    {% endif %}
+    {% for director in directors %}
+    <a href="{{site.baseurl}}/directors/#{{director|slugize}}">
+    {{director}}</a>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
+  </div>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
