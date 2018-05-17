@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Revieww A Quiet Place"
+title: "Revieww A Quiett Place"
 categories: [Zach Saul, Emily Bluntt]
 ---
 
