@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "rReview: A Quiet Place"
+title: "rReview A Quiet Place"
 categories: [Zach Saul, Emily Bluntt]
 directors: [bob, cindy]
 ---
