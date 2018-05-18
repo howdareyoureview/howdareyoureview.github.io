@@ -18,9 +18,9 @@ layout: default
     </div>
     <div class="post-directors">
       {% if post %}
-        {% assign directors = post.director %}
+        {% assign directors = post.directors %}
       {% else %}
-        {% assign directors = page.director %}
+        {% assign directors = page.directors %}
       {% endif %}
       {% for director in directors %}
       <a href="{{site.baseurl}}/directors/#{{director|slugize}}">
