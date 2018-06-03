@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Reviewe ARgo Aa Qquiet Place"
-categories: [Zach Saul, Emily Bluntt]
-directors: [cuddly whiskers]
+categories: "Zach Saul"
 ---
 
 Jon Margo Krasinski has it all these days, a beautiful and talented wife (Emily Blunt), and an endless stream of syndication money from The Office, and now a blossoming directorial career. A Quiet Place works because it avoids the tropes most monster movies use and instead, "the idea of a parasite introduced into an ecosystem" (Krasinski's words) inspires the action. The movie is essentially built around an ingenious sound design - and an exploration of their silent universe. It's surprisingly ornate, and thoughtful as the family uses a sophisticated system of lights, sign language, soundproofing, and diversions to stay alive. Instead of yelling "run!!" every thirty seconds like you do it most horror movies, it feels like the creature and these people are on a semi-equal footing, adding intrigue to the fight.
