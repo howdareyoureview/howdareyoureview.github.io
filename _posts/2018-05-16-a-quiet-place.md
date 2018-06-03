@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Reviewe Aa Qquiet Place]
+title: [Reviewee Aa Qquiet Place]
 categories: [Zach Saul, Emily Bluntt]
 directors: [bob, cindy]
 ---
