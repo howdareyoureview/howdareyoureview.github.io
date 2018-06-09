@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Review: RBG | 85 B"
-description: RBG is a plesant surprise, and avoids a lot of Biopic Cliches
+date: 2017-08-07 23:04:08
 image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/v1528570887/rbg.png'
-category: 'tutorial'
+description: RBG is a plesant surprise, and avoids a lot of Biopic Cliches.
+category: 'doccumentary'
 tags: 
 - doccumentary
 - 2018
