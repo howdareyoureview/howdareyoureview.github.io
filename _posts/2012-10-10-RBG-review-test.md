@@ -3,7 +3,7 @@ layout: post
 title: "Review RBG"
 description: RBG is a plesant surprise, and avoids a lot of Biopic Cliches
 image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/v1528570887/rbg.png'
-category: 'Review'
+category: 'tutorial'
 tags:
 - doccumentary
 - political
