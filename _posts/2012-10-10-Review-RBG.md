@@ -7,7 +7,6 @@ description: RBG is a plesant surprise, and avoids a lot of Biopic Cliches.
 category: 'doccumentary'
 tags: 
 - doccumentary
-- 2018
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
