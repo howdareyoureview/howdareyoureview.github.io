@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "RBG Review"
+title: "Review RBG"
 description: RBG is a plesant surprise, and avoids a lot of Biopic Cliches
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807239/morpheus_xdzgg1.jpg'
-category: 'blog'
+image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/v1528570887/rbg.png'
+category: 'Review'
+tags:
+- doccumentary
+- political
+- 2018
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
