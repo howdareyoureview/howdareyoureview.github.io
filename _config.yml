@@ -1,14 +1,14 @@
 # Site Settings
-title: How Dare You Review | Movies
-email: saul.zach@gmail.com
-description: Opinions about films from casual observers who have no right to hold Opinions. 
-baseurl: "/howdareyoureview" # the subpath of your site, e.g. /blog
-url: "https://howdareyoureview.github.io" # the base hostname & protocol for your site
+title: Jekflix | A theme for Jekyll
+email: youremail@xyz.com
+description: Some text about your blog.
+baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
+url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Zach Saul
-user_description: Writer, Designer, Movie Lover. 
+username: Jekflix
+user_description: Some text about you.
 disqus_username: disqus_username
 
 # Social Media
