@@ -1,9 +1,9 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
+title: How Dare You Review | A theme for Jekyll
 email: youremail@xyz.com
 description: Some text about your blog.
 baseurl: "/reviews" # the subpath of your site, e.g. /blog
-url: "https://howdareyoureview.github.io" # the base hostname & protocol for your site
+url: "https://howdareyoureview.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
