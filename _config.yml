@@ -1,7 +1,7 @@
 # Site Settings
 title: How Dare You Review | A theme for Jekyll
 email: youremail@xyz.com
-description: Some text about your blog.
+description: movie review blog
 baseurl: "/reviews" # the subpath of your site, e.g. /blog
 url: "https://howdareyoureview.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
@@ -13,7 +13,7 @@ disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
+github_username: howdareyoureview
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
