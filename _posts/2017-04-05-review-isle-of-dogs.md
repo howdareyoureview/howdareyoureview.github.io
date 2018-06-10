@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Isle of Dogs | 91 A"
-date: 2017-04-05 23:04:08
+date: 2017-04-09 23:04:08
 image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/v1528570887/rbg.png'
 description: Isle of Dogs is a beautiful, funny, and somewhat underwritten film.  
 category: 'animated'
