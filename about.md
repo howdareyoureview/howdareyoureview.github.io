@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 description: Movies, Music, Art, Tomfoolery. 
 permalink: /about/
 ---
