@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Review: Love, Simon | 63 D"
-image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/v1528570887/rbg.png'
+image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/c_scale,h_399,w_760/v1528673347/Pg-8-Arts-LoveSimon2.jpg'
 description: Love, Simon deserves credit for breaking new ground, but that about all it deserves credit for. 
-category: 'doccumentary'
+category: 'rom-com'
 tags: 
-- doccumentary
+- young adult
+- Katherine Langford
+- rom-com
 twitter_text: Love, Simon deserves credit for breaking new ground, but that about all it deserves credit for. 
 introduction: Love, Simon deserves credit for breaking new ground, but that about all it deserves credit for. 
 ---
