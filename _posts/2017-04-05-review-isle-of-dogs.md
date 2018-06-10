@@ -3,15 +3,14 @@ layout: post
 title: "Review: Isle of Dogs | 91 A"
 date: 2017-04-05 23:04:08
 image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/v1528570887/rbg.png'
-description: A Quiet Place is really impressive, and built around brilliant sound-design. 
+description: Isle of Dogs is a beautiful, funny, and somewhat underwritten film.  
 category: 'animated'
 tags: 
 - animated
 - Wes Anderson
-- Jon Krazinski
 - indie
-twitter_text: A Quiet Place is really impressive, and built around brilliant sound-design.
-introduction: A Quiet Place is really impressive, and built around brilliant sound-design.
+twitter_text: Isle of Dogs is a beautiful, funny, and somewhat underwritten film.  
+introduction: Isle of Dogs is a beautiful, funny, and somewhat underwritten film.  
 ---
 
 Isle of Dogs is a visual masterpiece unlike anything Wes Anderson has ever created - and the art direction and craftsmanship that went into this film are breathtaking. In his live-action films, there are moments where Wes Anderson's "just-so" (a term used by his critics) aesthetic can feel overdone and contrived. However, in stop-motion, the care and thought Anderson put into every detail fits perfectly and is so much fun to watch onscreen.
