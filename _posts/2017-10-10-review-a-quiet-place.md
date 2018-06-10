@@ -4,13 +4,13 @@ title: "Review: A Quiet Place | 92 A"
 date: 2017-08-07 23:04:08
 image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/v1528570887/rbg.png'
 description: A Quiet Place is really impressive, and built around brilliant sound-design. 
-category: 'doccumentary'
+category: 'scary'
 tags: 
 - scary
 - Emily Blunt
 - Jon Krazinski
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+twitter_text: A Quiet Place is really impressive, and built around brilliant sound-design.
+introduction: A Quiet Place is really impressive, and built around brilliant sound-design.
 ---
 
 Jon Krasinski has it all these days, a beautiful and talented wife (Emily Blunt), and an endless stream of syndication money from The Office, and now a blossoming directorial career. A Quiet Place works because it avoids the tropes most monster movies use and instead, "the idea of a parasite introduced into an ecosystem" (Krasinski's words) inspires the action. The movie is essentially built around an ingenious sound design - and an exploration of their silent universe. It's surprisingly ornate, and thoughtful as the family uses a sophisticated system of lights, sign language, soundproofing, and diversions to stay alive. Instead of yelling "run!!" every thirty seconds like you do it most horror movies, it feels like the creature and these people are on a semi-equal footing, adding intrigue to the fight.
