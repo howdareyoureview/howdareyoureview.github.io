@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Love, Simon | 63 D"
-image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/c_scale,h_399,w_760/v1528673347/Pg-8-Arts-LoveSimon2.jpg'
+image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/c_limit,h_399,w_760/v1528673347/Pg-8-Arts-LoveSimon2.jpg'
 description: Love, Simon deserves credit for breaking new ground, but that about all it deserves credit for. 
 category: 'rom-com'
 tags: 
