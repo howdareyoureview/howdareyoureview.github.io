@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Anhialation | 82 B"
-image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/c_limit,h_399,w_760/v1528674428/_38aee3f0-266b-11e8-9f95-06a811d7e716.jpg'
+image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528674428/_38aee3f0-266b-11e8-9f95-06a811d7e716.jpg'
 description: Anhialation is hyper-symbolic and requires a lot of it's audience, and for the most part the ideas are worth it.
 category: 'sci-fi'
 tags: 

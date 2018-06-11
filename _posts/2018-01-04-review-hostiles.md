@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Hostiles | 63 D"
-image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/c_limit,h_399,w_760/v1528675258/hero_Hostiles-2017-6.jpg'
+image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528675258/hero_Hostiles-2017-6.jpg'
 description: Hostiles is deeply unplesant on purpose, but I'm unsure what that purpose is...
 category: 'historical'
 tags: 
