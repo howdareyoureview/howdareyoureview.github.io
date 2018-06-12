@@ -2,7 +2,7 @@
 layout: post
 title: "Review: RBG | 85 B"
 date: 2017-08-07 23:04:08
-image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/v1528570887/rbg.png'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/v1528570887/rbg.png'
 description: RBG is a plesant surprise, and avoids a lot of biopic Cliches.
 category: 'doccumentary'
 tags: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: Black Panther | 80 B-"
-image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528693032/the-black-panther-film-marvel.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528693032/the-black-panther-film-marvel.jpg'
 description: Cool stunts, great visual style, and a fantastic cast make Black Panther a lot of fun to watch. 
 category: 'superhero'
 tags: 
