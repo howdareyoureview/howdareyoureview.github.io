@@ -2,7 +2,7 @@
 layout: post
 title: "Review: I, Tonya | 87 B+"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_scale,h_399,w_760/v1528782893/530126-neon.jpg'
-description: "Why can't it just be about my skating?" is a question for the ages. 
+description: Why can't it just be about my skating? is a question for the ages. 
 category: 'biopic'
 tags: 
 - drama
