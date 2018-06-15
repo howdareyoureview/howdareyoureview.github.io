@@ -11,10 +11,7 @@ tags:
 - Chris Hemsworth
 - Mark Ruffalo
 - Scarlett Johansson
-- Don Cheadle
-- Tom Hiddleston
 - Chadwick Boseman
-- Elizabeth Olsen
 - Idris Elba
 twitter_text: Worlds collide both literally and metaphorically in Infinity Wars - a comic book nerd's wet dream.  
 introduction: Worlds collide both literally and metaphorically in Infinity Wars - a comic book nerd's wet dream. 
