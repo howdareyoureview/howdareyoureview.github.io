@@ -10,7 +10,6 @@ tags:
 - Timothée Chalamet
 - indie
 - sacramento
-- horrifying 
 twitter_text: Greta Gerwig is just as brilliant behind the camera as she is in front of it. The jokes feel timeless, and the excanges stick with you.
 introduction: Greta Gerwig is just as brilliant behind the camera as she is in front of it. The jokes feel timeless, and the excanges stick with you.
 ---
