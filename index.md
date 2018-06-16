@@ -34,7 +34,6 @@ layout: main
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <p class="description">{{ post.introduction }}</p>
                         <p class="postAuthor">by{{ post.author }}</p>
-                    <p class="score">{{ post.score }}</p>
                     </a>                   
                     <div class="tags">
                         {% for tag in post.tags %}
