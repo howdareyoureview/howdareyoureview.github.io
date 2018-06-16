@@ -33,6 +33,8 @@ layout: main
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <p class="description">{{ post.introduction }}</p>
                     </a>
+                    <p class="author">{{ post.author }}</p>
+                    <p class="score">{{ post.score }}</p>
                     <div class="tags">
                         {% for tag in post.tags %}
                             <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">{{ tag }}</a>

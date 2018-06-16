@@ -11,7 +11,9 @@ tags:
 - thriller
 - psychology
 twitter_text: If you weren't terrified of Stalkers and Insurance companies before... Unsane will scare you straight.  
-introduction: If you weren't terrified of Stalkers and Insurance companies before... Unsane will scare you straight. 
+introduction: If you weren't terrified of Stalkers and Insurance companies before... Unsane will scare you straight.
+author: Zach Saul
+score: 85 
 ---
 
 Unsane is terrifying not only because of it’s terrifying villain (Joshua Leonard), but because it doesn’t seem that far from the truth. With each passing day men are getting creepier, corporations are getting smarter about scamming us, and watching the news can put our sanity in jeopardy somedays. Unsane is particularly poignant in an age when truth seems less present in our discourse. Sawyer (Foy) quickly realizes while trapped in the psych ward that her truth doesn’t matter, and to survive her stalker she’d have to outsmart him. 

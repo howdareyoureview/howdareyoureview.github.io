@@ -11,6 +11,8 @@ tags:
 - Sarah Wright
 twitter_text: Quirky editing/naration gives it flare, but I can't help but ask if Barry Seal or Tom Cruise for that matter deserves to be glorified for their deceit, decadence, and misogyny.   
 introduction: Quirky editing/naration gives it flare, but I can't help but ask if Barry Seal or Tom Cruise for that matter deserves to be glorified for their deceit, decadence, and misogyny.  
+author: Zach Saul
+score: 69
 ---
 
 Fair Warning: if you love Tom Cruise or Barry Seal, you probably shouldn't read this review.

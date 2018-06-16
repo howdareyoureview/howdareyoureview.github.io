@@ -12,6 +12,8 @@ tags:
 - sacramento
 twitter_text: Greta Gerwig is just as brilliant behind the camera as she is in front of it. The jokes feel timeless, and the excanges stick with you.
 introduction: Greta Gerwig is just as brilliant behind the camera as she is in front of it. The jokes feel timeless, and the excanges stick with you.
+author: Zach Saul
+score: 93
 ---
 
 Lady Bird is a breathtaking movie. equal parts hilarious, sweet, clever, and nostalgic I was smiling involuntarily in just about every scene. Gretta Gerwig looks like a force to be reckoned with should she choose to write and direct more movies as Lady Bird will almost certainly earn a nomination at the oscars.  Saoirse Ronan is an incredible young actress and she's not only believable as a high school senior - but at a conflicted and evolving girl grappling with angst and big dreams. This movie really had me thinking about Malcom Gladwell's idea of "righteous orthodoxy" - the idea that getting smarter doesn't have to mean throwing traditions by the wayside. Intellectuals (like the boy Lady Bird meets who says god is 'ridiculous') often cast the orthodox or the traditionalist as rigid and close minded. Lady Bird points out that believing in something, or even some traditions is more nuanced than being evangelical or atheist, and faith can take a much broader shape that whether a person goes to church or not. Theres a beauty and a simplicity to things we do for tradition's sake just as theres a beauty to newness, excitement, and rebellion.

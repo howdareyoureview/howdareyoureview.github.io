@@ -10,7 +10,9 @@ tags:
 - drama
 - tragedy
 twitter_text: If only all melodramas worked as well as Stronger.    
-introduction: If only all melodramas worked as well as Stronger.  
+introduction: If only all melodramas worked as well as Stronger.
+author: Kleon Van
+score: 83  
 ---
 
 To be honest, I only went to see this movie for Jake, and he didn't let me down. I normally don't watch melodramatic movies, but if I were to watch them, I'd hope they were as good as Stronger. 

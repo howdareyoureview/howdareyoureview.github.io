@@ -14,7 +14,8 @@ tags:
 - sports
 twitter_text: Emma Stone is brilliant as Billie Jean, if only the movie around her was a little more focussed.
 introduction: Emma Stone is brilliant as Billie Jean, if only the movie around her was a little more focussed.
-Author: Zach Saul
+author: Zach Saul
+score: 83
 ---
 
 Battle of The Sexes has some impossibly fun source material to draw from. the "Male Chauvinist Pig" (Bobby Riggs played by Steve Carrell)  against the young, smart, and talented Billie Jean King (Emma Stone) square off in the battle for gender supremacy.  Before reading about this exhibition tennis match I always thought "battle of the sexes" was reserved for family feud reruns and bored summer camp counselors.
