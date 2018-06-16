@@ -32,7 +32,7 @@ layout: main
                     </a>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <p class="description">{{ post.introduction }}</p>
-                        <p class="author">by{{ post.author }}</p>
+                        <p class="postAuthor">by{{ post.author }}</p>
                     <p class="score">{{ post.score }}</p>
                     </a>                   
                     <div class="tags">
