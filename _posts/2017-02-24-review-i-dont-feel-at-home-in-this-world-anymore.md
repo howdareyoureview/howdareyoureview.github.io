@@ -13,6 +13,7 @@ tags:
 - revenge
 twitter_text: One of the most dinstinct and poignant narrative voices of the past few years. Sadly at the end it doesn't amount to more than a revenge flick.
 introduction: One of the most dinstinct and poignant narrative voices of the past few years. Sadly at the end it doesn't amount to more than a revenge flick.
+author: Zach Saul
 ---
 
 Every time I watch Melanie Lynskey (Ruth) i find myself thinking I wish she was my friend. In *I Don't feel at Home in this World Anymore* she plays a wonderfully deadpan middle class woman engaging in her unique brand of vigilante justice. The opening of the movie is a really beautifully composed collage of moments in which people and situations are disappointing to Ruthy. It sets the stage for a movie that strikes an interesting balance between (as Ruth would put it) "condemning how we treat each other" and scoffing at the problems of a middle class white woman in the grand scheme of the universe. However, as the movie's action built I found myself wishing the more morbid, deadpan tone of the first third carried into the second and third acts. The power and brilliance for *I Don't Feel at Home in This World Anymore* is in the excellent character Lynskey portrays and the inner monologue taking place on screen as we follow her movements. In the first third the movie is shot with more perspective and detail than the later sections which fall off the rails a bit as the nuances are abandoned in favor of a cleaner action sequence.
