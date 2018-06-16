@@ -32,8 +32,7 @@ layout: main
                         </h2>
                     </a>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                        <p class="description">{{ post.introduction }}</p>
-                        <span class="postAuthor">by {{ post.author }}</span>
+                        <p class="description">{{ post.introduction }}<br><span class="postAuthor">by {{ post.author }}</span></p>   
                     </a>                   
                     <div class="tags">
                         {% for tag in post.tags %}
