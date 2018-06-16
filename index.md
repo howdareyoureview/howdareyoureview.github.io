@@ -25,7 +25,7 @@ layout: main
                     <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
                     <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" class="date">
                         {% include date.html date=post.date %} 
-                        <span class="postAuthor" style="text-align: right;">by {{ post.author }}</span>
+                        <br><span class="postAuthor">by {{ post.author }}</span>
                     </time>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <h2 class="post-title" itemprop="name">
