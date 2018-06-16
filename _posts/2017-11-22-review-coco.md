@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: Coco | 87 B+"
+title: "Coco"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528951322/maxresdefault.jpg'
 description: Coco is gorgeous to look at, and demonstrates Pixars ability to immerse you in a foreign universe.      
 category: 'animated'
@@ -10,6 +10,8 @@ tags:
 - Lee Unkrich 
 twitter_text: Coco is gorgeous to look at, and demonstrates Pixars ability to immerse you in a foreign universe.
 introduction: Coco is gorgeous to look at, and demonstrates Pixars ability to immerse you in a foreign universe.
+score: 87
+author: Zach Saul
 ---
 
 I have to confess when I saw the trailer for Coco I felt skeptical: as "music movies" are challenging to pull off and too often replace good storytelling with sing along songs. Much to my delight that was not the case in Coco. The characters in Coco are drawn with rich personalities, emotional ranges, and quirks. On the surface Coco seems like a movie about achieving you dreams and following your heart which is a pretty thematically bland. But really, Coco is a movie about how to regard, and respect those with whom we disagree. It's easy to understand why Miguel wasn't as enthralled by a life making shoes early in the film and preferred a life where guitars were allowed. To their credit even early in the film the makers of Coco painted Miguel's relatives as deeply loyal and loving despite their rules and rigidness.  

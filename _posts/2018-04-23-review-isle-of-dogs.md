@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: Isle of Dogs | 91 A"
+title: "Isle of Dogs"
 date: 2017-04-09 23:04:08
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_scale,h_399,w_760/v1528670982/isle_of_dogs.jpg'
 description: Isle of Dogs is a beautiful, funny, and somewhat underwritten film.  
@@ -10,7 +10,9 @@ tags:
 - Wes Anderson
 - indie
 twitter_text: Isle of Dogs is a beautiful, funny, and somewhat underwritten film.  
-introduction: Isle of Dogs is a beautiful, funny, and somewhat underwritten film.  
+introduction: Isle of Dogs is a beautiful, funny, and somewhat underwritten film.
+score: 91
+author: Zach Saul  
 ---
 
 Isle of Dogs is a visual masterpiece unlike anything Wes Anderson has ever created - and the art direction and craftsmanship that went into this film are breathtaking. In his live-action films, there are moments where Wes Anderson's "just-so" (a term used by his critics) aesthetic can feel overdone and contrived. However, in stop-motion, the care and thought Anderson put into every detail fits perfectly and is so much fun to watch onscreen.

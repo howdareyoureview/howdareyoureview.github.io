@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: Bladerunner: 2049 | 96 A"
+title: "Bladerunner: 2049"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529167993/hero_Battle-of-the-Sexes-TIFF-2017.jpg'
 description: Breathtakingly beautiful to look at, sensative, and more focussed than the original - Bladerunner 2049 is my favorite movie of 2017.      
 category: 'sci-fi'

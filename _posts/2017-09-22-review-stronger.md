@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: Stronger | 83 B-"
+title: "Stronger"
 image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529127882/hero_Stronger-TIFF-2017.jpg'
 description: If only all melodramas worked as well as Stronger.
 category: 'tragedy'

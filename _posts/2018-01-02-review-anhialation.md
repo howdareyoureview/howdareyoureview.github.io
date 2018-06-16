@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: Anhialation | 82 B"
+title: "Anhialation"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528674428/_38aee3f0-266b-11e8-9f95-06a811d7e716.jpg'
 description: Anhialation is hyper-symbolic and requires a lot of it's audience, and for the most part the ideas are worth it.
 category: 'sci-fi'
@@ -9,7 +9,9 @@ tags:
 - Natalie Portman
 - biology
 twitter_text: Anhialation is hyper-symbolic and requires a lot of it's audience, and for the most part the ideas are worth it.
-introduction: Anhialation is hyper-symbolic and requires a lot of it's audience, and for the most part the ideas are worth it. 
+introduction: Anhialation is hyper-symbolic and requires a lot of it's audience, and for the most part the ideas are worth it.
+score: 82
+author: Zach Saul 
 ---
 Anhialation is a deeply ambitious movie that's equal parts cryptic, brilliant, and frustrating. The movie explores the plight of four depressed women who decide to enter a mysterious bubble inside which people have been disappearing. It's a familiar sounding premise about alien presence on earth but turns in much more interesting directions than you'd expect for an invasion movie. Annihilation focusses on the intricacies of a "refracted" universe that scrambles everything together. We follow four people who decide to enter the "shimmer" for different reasons but all of them are struggling with depression or feelings of sadness.
 

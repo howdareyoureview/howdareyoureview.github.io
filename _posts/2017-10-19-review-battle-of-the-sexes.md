@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: Battle of the Sexes | 83 B-"
+title: "Battle of the Sexes"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529167993/hero_Battle-of-the-Sexes-TIFF-2017.jpg'
 description: Emma Stone is brilliant as Billie Jean, if only the movie around her was a little more focussed.      
 category: 'sports'

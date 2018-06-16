@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: Love, Simon | 63 D"
+title: "Love, Simon"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528673347/Pg-8-Arts-LoveSimon2.jpg'
 description: Love, Simon deserves credit for breaking new ground, but that about all it deserves credit for. 
 category: 'rom-com'
@@ -9,7 +9,9 @@ tags:
 - Katherine Langford
 - rom-com
 twitter_text: Love, Simon deserves credit for breaking new ground, but that about all it deserves credit for. 
-introduction: Love, Simon deserves credit for breaking new ground, but that about all it deserves credit for. 
+introduction: Love, Simon deserves credit for breaking new ground, but that about all it deserves credit for.
+score: 63
+author: Zach Saul 
 ---
 
 Love, Simon is a fantasy about love in the digital age I fundamentally don't understand or share. Admittedly, this wasn't movie wasn't made for me (a 26 year old straight male) - it's a young adult movie meant to deliver the glitz and glam of popular romance movies to the marginalized and underrepresented. I've heard fans of this movie tell me that it's importance stems from its mere presence at the nationwide box office - regardless of the film's flaws. However, I would argue that the movie genre it's parodying (essentially "the fault in our stars" and it's contemporaries) is too cringe-worthy to be taken seriously, despite good intentions. 

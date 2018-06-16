@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: Hostiles | 63 D"
+title: "Hostiles"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528675258/hero_Hostiles-2017-6.jpg'
 description: Hostiles is deeply unplesant on purpose, but I'm unsure what that purpose is...
 category: 'historical'
@@ -10,7 +10,9 @@ tags:
 - Christian Bale
 - action
 twitter_text: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness.
-introduction: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness. 
+introduction: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness.
+score: 63
+author: Zach Saul 
 ---
 Hostiles is a beautiful visual experience, but a very unpleasant emotional experience. Headlined by an A-list cast including Chrisian Bale, Rosamund Pike, and actor of the moment Timothee Chalamet (the man has been in close to every movie the last 18 months), this is a weakly written script about a powerful subject matter. Hostiles gets-by for much of the movie on gorgeous cinematography and a healthy dose of moral ambiguity. The problem is its crescendos feel forced, and when tragedy strikes (as it does every twenty minutes or so) it feels aggrandized instead of explained. The movie deserves a lot of credit for attempting to tell a nuanced story about racism and native Americans in the 1800s - but the screenplay fails to paint any of the characters with enough depth for their plights to resonate fully.
 

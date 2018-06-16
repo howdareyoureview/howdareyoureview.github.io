@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: Novitiate | 88 B+"
+title: "Novitiate"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528918416/7.jpg'
 description: Novitiate is sensastive, thought provoking and intimate and lends both skeptisism and admiration for the Catholic Church.    
 category: 'drama'
@@ -12,6 +12,8 @@ tags:
 - drama
 twitter_text: Novitiate is sensastive, thought provoking and intimate and lends both skeptisism and admiration for the Catholic Church.
 introduction: Novitiate is sensastive, thought provoking and intimate and lends both skeptisism and admiration for the Catholic Church.
+score: 88
+author: Zach Saul
 ---
 
 Novitiate is at times maddeningly slow, but it does examine faith - specifically the love that accompanies faith in a really intelligent way. As a secular person - I may never fully understand why religious people love God so much - but I can identify with the underlying existential desires. For this film's nuns there is a complicated relationship between sacrifice/suffering. In some cases the church condones "extreme acts of penance" and these acts accompany deep loving feelings. While this seems utterly ridiculous to the passing observer (not raised in organized religion) Novitiate's greatest achievement is a long and nuanced meditation on to what extent suffering contributes to intimacy.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: Red Sparrow | 79 C"
+title: "Red Sparrow"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528674492/red-sparrow1.jpg'
 description: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness.
 category: 'thriller'
@@ -9,7 +9,9 @@ tags:
 - thriller
 - spy movies
 twitter_text: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness.
-introduction: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness. 
+introduction: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness.
+score: 79
+author: Zach Saul 
 ---
 Red Sparrow is a movie meant to raise the hair on the back of your neck - and is unapologetic about its perspective. The movie depicts a real-life (allegedly) version of "whore-school" and the extreme disregard nationalist thinking has for people's wellbeing. Red Sparrow is by no means my favorite performance by Jenifer Lawrence, but she plays the part well despite the litany of accent-jokes. Many years removed from her role as Katniss Everdeen I think Lawrence is at her best when she plays characters full righteous indignation - and Dominika gives her a full plate of material. At times, the nudity, and rape scenes (there are more than one) do feel over the top - but I can't accuse Red Sparrow of inserting them aimlessly. This film wanted to grapple with among other subjects; the double standard that exists for women, and the moral boundaries governments will cross for their countries. Despite being depicted in a gut-curling way, Dominika's abuse was important in her developing disillusionment with Russia and growing feelings of hopelessness.
 

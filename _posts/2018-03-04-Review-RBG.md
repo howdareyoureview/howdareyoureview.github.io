@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: RBG | 85 B"
+title: "RBG"
 date: 2017-08-07 23:04:08
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/v1528570887/rbg.png'
 description: RBG is a plesant surprise, and avoids a lot of biopic Cliches.
@@ -9,6 +9,8 @@ tags:
 - doccumentary
 twitter_text: RBG is a plesant surprise, and avoids a lot of biopic Cliches.
 introduction: RBG is a plesant surprise, and avoids a lot of biopic Cliches.
+score: 85
+author: Zach Saul
 ---
 
 RBG has a pleasantly surprising amount of style for a biography documentary. The shots of Ruth working out alongside a personal trainer certainly put those of us with gym memberships that go “semi-regularly” to shame. Directors Julie Cohen and Betsy West worked really hard to find interesting and unusual footage of RBG and were very successful putting her accomplishments into a narrative context. This documentary does an excellent job of going beyond “declarations” of significance and explains why RBG’s accomplishments matter. Watching this movie, myself and the entire theatre was overcome with how adorable the eighty-four-year-old version of RBG is. How such an unstoppable force could fit inside such a tiny human-being is remarkable. 

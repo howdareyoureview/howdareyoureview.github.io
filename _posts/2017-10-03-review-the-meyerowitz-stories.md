@@ -12,7 +12,9 @@ tags:
 - indie
 - drama
 twitter_text: Woody-Allen-esque in their structure, people will be kvelling over Baumbach's newest vignettes.   
-introduction: Woody-Allen-esque in their structure, people will be kvelling over Baumbach's newest vignettes.  
+introduction: Woody-Allen-esque in their structure, people will be kvelling over Baumbach's newest vignettes. 
+score: 90
+author: Zach Saul 
 ---
 
 In *The Meyerowitz Stories New and Selected* Director Noah Baumbach's talent as a writer is unleashed and on display. For anyone who has endured an unpleasant thanksgiving dinner table, a laborious family vacation, or just a prickly aging parent - this movie is especially for you. Family dynamics are an ambitious subject matter because of their nuance and complexity - and oh so manny movies have tried and failed. The reason The Meyerowitz Stories works is that it's format (3 loosely connected vignettes) mirrors what it's like to exist in a dysfunctional family. Adam Sandler, Ben Stiller, and Elizabeth Marvel play the three Meyerowitz children and each exemplify a different aspect of the dysfunctional dynamic and neglect. As the prickly artist father - Dennis Hoffman's performance is one for the ages - and is my favorite performance by an actor in 2017. Equal parts funny, infuriating, sweet, and zany  - Harold tiptoes the line between acting as the source of disfunction and unity for the family beautifully.

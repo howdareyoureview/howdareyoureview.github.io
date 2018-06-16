@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: Unsane | 85 B"
+title: "Unsane"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528958645/dims-9a95a704-4e4e-4c2c-96fc-711a8a2a7332.jpg'
 description: If you weren't terrified of Stalkers and Insurance companies before... Unsane will scare you straight.       
 category: 'psych-thriller'

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: The Post | 81 B-"
+title: "The Post"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528828685/the-post-2.jpg'
 description: Despite being highly predictable thanks to a spoiler trailer, Streep's genius makes this movie an enjoyable two hours.   
 category: 'historical'
@@ -13,6 +13,8 @@ tags:
 - mystery
 twitter_text: Gary Oldman's transformation is remarkable, and the movie around him mostly holds up. 
 introduction: Gary Oldman's transformation is remarkable, and the movie around him mostly holds up. 
+score: 81
+author: Zach Saul
 ---
 The Post is a really well made exploration into an age old questions journalists face regularly: what if the truth endangers others, or the people publishing it? If anyone was wondering where Meryl Streep has been the past few years, the answer is clear: glued in front of a mirror practicing her "Kay Graham" gaze. Streep completely stole the show, and brilliantly weaves through the impassioned boys club arguing on both sides of the biggest publishing decision in the history of the Washington Post. Despite a slow start, The Post is at it's best in moments of high conflict. In exchanges between Arthur (Bradley Whitford) and Kay (Streep), we see how journalistic idealism (this idea journalists hold that newspapers should always stand for truth) is both out of touch economically, and in perfect lockstep with the deep recesses of our guts.
 

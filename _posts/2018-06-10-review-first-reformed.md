@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: First Reformed | 59 F"
+title: "First Reformed"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528692631/18firstreformed-articleLarge-v2.jpg'
 description: First Reformed is egregiously mismarketed, and badly underwritten. Religous symbols aren't enough to save this sleepy script. 
 category: 'drama'
@@ -9,7 +9,9 @@ tags:
 - ethan hawke
 - christian
 twitter_text: First Reformed is egregiously mismarketed, and badly underwritten. Religous symbols aren't enough to save this sleepy script.
-introduction: First Reformed is egregiously mismarketed, and badly underwritten. Religous symbols aren't enough to save this sleepy script. 
+introduction: First Reformed is egregiously mismarketed, and badly underwritten. Religous symbols aren't enough to save this sleepy script.
+score: 59
+author: Zach Saul 
 ---
 First Reformed is about an environmentalist who killed himself and the aftermath surrounding his suicide and two churches in upstate New York. An interesting confrontation between an environmental extremist and a priest ended in the first fifteen minutes, and so too did the tenson keeping the narrative going. There are big ideas that get thrown out in manny of the movie’s sequences, but they’re sadly left to die, unexplored. 
 

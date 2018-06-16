@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: The Disaster Artist | 60 D-"
+title: "The Disaster Artist"
 date: 2017-08-07 23:04:08
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528917996/the-disaster-artist-james-franco-dave-franco.jpg'
 description: The Disaster Artist misses the mark, and glazes over the interesting questions we have for The Room.  
@@ -14,6 +14,8 @@ tags:
 - comedy
 twitter_text: The Disaster Artist misses the mark, and glazes over the interesting questions we have for The Room.
 introduction: The Disaster Artist misses the mark, and glazes over the interesting questions we have for The Room.
+score: 60
+author: Zach Saul
 ---
 
 I have to admit....I was hoping for more from The Disaster Artist and more specifically James Franco's Tommy Wisseau. one of the reasons i was excited to see the movie is because portraying someone like Tommy is really, really ambitious. Not because he's an unrealized genius, because turning Tommy into a likable character seemed like a challenge given how little we know about him.

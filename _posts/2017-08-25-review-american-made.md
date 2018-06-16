@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: American Made | 69 D+"
+title: "American Made"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529126102/American-Made-Shipment.jpg'
 description: Quirky editing/naration gives it flare, but I can't help but ask if Barry Seal or Tom Cruise for that matter deserves to be glorified for their deceit, decadence, and misogyny.
 category: 'crime'

@@ -12,7 +12,9 @@ tags:
 - realist
 - Sean Baker
 twitter_text: Cute, complicated, and deeply unplesant. I Both admire the Florida Project and at the same time never want to see it again.   
-introduction: Cute, complicated, and deeply unplesant. I Both admire the Florida Project and at the same time never want to see it again.  
+introduction: Cute, complicated, and deeply unplesant. I Both admire the Florida Project and at the same time never want to see it again. 
+score: 70
+author: Zach Saul 
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: Star Wars the Last Jedi | 86 B"
+title: "Star Wars the Last Jedi"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528850571/hero_Last_Jedi.jpg'
 description: The Last Jedi definately gives you your money's worth action-wise, and sets up the new trilogy's conclusion.    
 category: 'sci-fi'
@@ -11,7 +11,9 @@ tags:
 - Adam Driver
 - franchise
 twitter_text: The Last Jedi definately gives you your money's worth action-wise, and sets up the new trilogy's conclusion. 
-introduction: The Last Jedi definately gives you your money's worth action-wise, and sets up the new trilogy's conclusion.  
+introduction: The Last Jedi definately gives you your money's worth action-wise, and sets up the new trilogy's conclusion. 
+score: 86
+author: Zach Saul 
 ---
 I feel that Star Wars Episode 8 is really two movies, taking place side by side, and intersecting at the end. The connections between the two are at times scarce and frustrating - but still incredibly fun, and thought provoking. The first movie is Luke Skywalker's tutelage of Rey in the ways of the Jedi. It takes place on a remote island and delves deep into what it means to be a Jedi, and the importance of balance in the universe. Rey and Luke are both impossibly moody throughout which of coarse makes their chemistry fun to watch. The second film takes place in the background and follows the fast dwindling rebels fight for survival against the first order. Fans of explosions, battle scenes, tactical strategy, and light sabers will have plenty to fawn over in this movie.
 

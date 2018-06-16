@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: Thor Ragnarok | 74 C"
+title: "Thor Ragnarok"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528953376/Thor-Ragnarok-Revengers.jpg'
 description: Funny, fast paced and well-rounded, Ragnarok is one of the stronger Marvel installments of the past few years.      
 category: 'superhero'
@@ -14,7 +14,9 @@ tags:
 - Anthony Hopkins
 - Idris Elba
 twitter_text: Funny, fast paced and well-rounded, Ragnarok is one of the stronger Marvel installments of the past few years. 
-introduction: Funny, fast paced and well-rounded, Ragnarok is one of the stronger Marvel installments of the past few years. 
+introduction: Funny, fast paced and well-rounded, Ragnarok is one of the stronger Marvel installments of the past few years.
+score: 74
+author: Zach Saul 
 ---
 
 Thor: Ragnarok is really, really funny. It seems as though Marvel spent some time reflecting on the failures of 2013's Thor The Dark World and went out of the box for this edition. I have to say, it was an excellent choice. The action sequences are fun, suspenseful, and self aware and this edition does a better job navigating the insertion of a greek god (well sort of) into a more modern landscape. The cast features faces moviegoers are very familiar with like Mark Ruffalo as the Hulk, and Tom Hiddleston as Loki - but also incorporates fabulous performances from Cate Blanchet as Hela, Tessa Thompson as Valkyrie and Jeff Goldblum as Grandmaster. As a moviegoer who isn't as enthralled by superhero movies as most; I think these marvel installments really hinge on the villains and the chemistry each builds between the protagonists and the villains. Thor delivers us a crop of villains that are probably more funny than interesting - but are no doubt enjoyable within the context of the movie.

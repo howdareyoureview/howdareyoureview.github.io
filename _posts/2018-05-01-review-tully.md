@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: Tully | 90 A-"
+title: "Tully"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528782508/tully_01824_r1517524436_wide-dbae51bc4f8fe124cec7554e959754f0704c70d9-s900-c85.jpg'
 description: Tully is funnier, weirder, and more resonant than you'd expect. 
 category: 'drama'
@@ -10,7 +10,9 @@ tags:
 - Mackenzie Davis
 - family
 twitter_text: Tully is funnier, weirder, and more resonant than you'd expect. 
-introduction: Tully is funnier, weirder, and more resonant than you'd expect. 
+introduction: Tully is funnier, weirder, and more resonant than you'd expect.
+score: 90
+author: Zach Saul 
 ---
 
 Tully is a really intimate story that displays with tremendous sensitivity, the realities of motherhood. From depression to squeezing out milk involuntarily in a grungy bar bathroom we see the funny, gross, and uncomfortable all in the same 90 minutes. What makes this movie noteworthy is how it juxtaposes Marlo’s (Charlize Theron) worst fears with her greatest fantasies. It’s almost Louie-esque (Louie C.K’s FX Show). I wondered at different points whether Tully was Theron’s alter-ego, and that speaks to how effective Mackenzie Davis and Charlize Theron were on screen together. The reason they work so well together is that Theron has mastered the art of playing the moody misunderstood protagonist, and Davis the pixie-dream girl who breaks the misunderstood protagonist out of their slump. In this case, that misunderstood protagonist takes an unfamiliar shape to most moviegoers (a suburban mom), but it was very easy to grab onto Margo’s thirst for authenticity in her interactions and the outside world.
