@@ -2,7 +2,7 @@
 layout: post
 title: "Oceans 8"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528847711/Oceans-8-poster.png'
-description: For about fifteen minutes it carries the energy of the original movies - but it devolves quickly into  irellavance.     
+description: For about fifteen minutes it carries the energy of the original movies - but it devolves quickly into  irrelevance.     
 category: 'Crime'
 tags: 
 - Crime
@@ -12,8 +12,8 @@ tags:
 - Anne Hathaway
 - Helena Bonham Carter
 - Mindy Kaling
-twitter_text: For about fifteen minutes it carries the energy of the original movies - but it devolves quickly into  irellavance.
-introduction: For about fifteen minutes it carries the energy of the original movies - but it devolves quickly into  irellavance.
+twitter_text: For about fifteen minutes it carries the energy of the original movies - but it devolves quickly into irrelevance.
+introduction: For about fifteen minutes it carries the energy of the original movies - but it devolves quickly into irrelevance.
 score: 60
 author: Zach Saul
 ---
