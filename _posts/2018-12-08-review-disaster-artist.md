@@ -24,6 +24,6 @@ The Disaster Artist is funny, and definitely worth the price of admission - but 
 
 The ensemble cast is really strong, and Seth Rogan, Allison Brie, and Dave Franco all added a nice compliment to Wiseau - but I found myself infinitely more compelled by their characters than Franco's and that's problematic.
 
-The Good: The Disaster Artist does a really really impressive job copying the most minute details of the Room - and definitely captured the spirit of those around the production, and the feelings that accompany us as an audience (watching the room).
+The Good: The Disaster Artist does a really, really impressive job copying the most minute details of the Room - and definitely captured the spirit of those around the production, and the feelings that accompany us as an audience (watching the room).
 
 The Bad: It almost felt like I was watching a diehard Harry Potter fan's movie about the making of Chris Columbus' Harry Potter movies. Were the writers were too close to the source material? Does Franco hold The Room in such high regard, it blinded him from asking the bigger questions about the Worst Movie of all Time?
