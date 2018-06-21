@@ -23,7 +23,7 @@ I enjoyed the stylistic cut-scenes of him talking into the camera, as they were 
 
 The story is hard to believe, most likely because it’s loosely based on what really happened, but things move fast so I didn’t have to dwell on what happened on screen. Like my co-hort, I felt like it glamorized him when he was kind of a dick, but hey, that’s movies for you.
 
-I generally like these glimpses into historical events because I get all curious about what really happened. Cue googling and looking up everything about it.
+I generally like these movies that delve into historical events because I get curious about what really happened. Cue googling and looking up everything about it.
 
-Bottom Line:
+**Bottom Line:**
 Overall, fun, but nothing memorable. Cruise being cruise I’d give it a **69**.
