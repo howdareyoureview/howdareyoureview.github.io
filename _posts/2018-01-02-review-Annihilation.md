@@ -2,14 +2,14 @@
 layout: post
 title: "Annihilation"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528674428/_38aee3f0-266b-11e8-9f95-06a811d7e716.jpg'
-description: Annihilation is hyper-symbolic and requires a lot of it's audience, and for the most part the ideas are worth it.
+description: Annihilation is hyper-symbolic and requires a lot of its audience, and for the most part the ideas are worth it.
 category: 'sci-fi'
 tags:
 - sci-fi
 - Natalie Portman
 - biology
-twitter_text: Annihilation is hyper-symbolic and requires a lot of it's audience, and for the most part the ideas are worth it.
-introduction: Annihilation is hyper-symbolic and requires a lot of it's audience, and for the most part the ideas are worth it.
+twitter_text: Annihilation is hyper-symbolic and requires a lot of its audience, and for the most part the ideas are worth it.
+introduction: Annihilation is hyper-symbolic and requires a lot of its audience, and for the most part the ideas are worth it.
 score: 82
 author: Zach Saul
 ---
