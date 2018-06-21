@@ -7,6 +7,7 @@ category: 'sci-fi'
 tags:
 - sci-fi
 - Natalie Portman
+- Tessa Thompson
 - biology
 twitter_text: Annihilation is hyper-symbolic and requires a lot of its audience, and for the most part the ideas are worth it.
 introduction: Annihilation is hyper-symbolic and requires a lot of its audience, and for the most part the ideas are worth it.
