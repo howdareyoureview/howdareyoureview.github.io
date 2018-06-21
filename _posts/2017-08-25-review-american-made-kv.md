@@ -26,4 +26,4 @@ The story is hard to believe, most likely because it’s loosely based on what r
 I generally like these glimpses into historical events because I get all curious about what really happened. Cue googling and looking up everything about it.
 
 Bottom Line:
-Overall, fun, but nothing memorable. Cruise being cruise I’d give it a 69 (hehe)
+Overall, fun, but nothing memorable. Cruise being cruise I’d give it a **69**.
