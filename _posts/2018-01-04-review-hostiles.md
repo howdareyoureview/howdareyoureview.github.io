@@ -9,8 +9,8 @@ tags:
 - drama
 - Christian Bale
 - action
-twitter_text: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness.
-introduction: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness.
+twitter_text: Hostiles is deeply unplesant on purpose, but I'm unsure what that purpose is...
+introduction: Hostiles is deeply unplesant on purpose, but I'm unsure what that purpose is...
 score: 63
 author: Zach Saul 
 ---
