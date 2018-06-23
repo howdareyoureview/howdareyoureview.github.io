@@ -12,7 +12,7 @@ tags:
 twitter_text: Overall, the *Incredibles 2* sequel lacks the sharpness of the original, and the writing as a whole just doesn’t compare.
 introduction: Overall, the *Incredibles 2* sequel lacks the sharpness of the original, and the writing as a whole just doesn’t compare.
 author: Zach Saul
-score: 79
+score: 75
 ---
 
 Overall, the *Incredibles 2* sequel lacks the sharpness of the original, and the writing as a whole just doesn’t compare. Even so, it’s still a lock for a best animated picture nomination, a testament how far ahead Pixar is of the rest of the pack. For the first thirty or so minutes I was worried about this *Incredibles* sequel - because the scenes with Mr. Incredible and Elastigirl in their “domestic” life really struggle to summon energy. There’s only so many times I can stomach Holly Hunter using “but what about the kids” as an excuse not to make a decision, or take an action - before I declare the character and the writing lazy - and I just about got there. (I find it pretty reductive to depict mothers as unflinchingly beholden to their ‘domestic duties’.) Thankfully the action picked up in the second half of the film, and the energy of the original film returned. Edna Mose (voiced...unbelievably by director Brad Bird) makes an appearance and delights as we’d expect, and Jack-Jack’s powers give Pixar a chance to do what they do best: world-building. The best moments in the Incredibles 2 are those when Mr Incredible and his children are discovering Jack-Jack’s powers, and how to utilize them. The randomness of his power adds surprise to the action sequences, something that the rest of the film lacked.
