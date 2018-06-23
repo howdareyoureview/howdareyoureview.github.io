@@ -38,7 +38,9 @@
                         <td>{{ page.written-by }}</td>
                     </tr>
                     <tr><th>Staring:</th>
-                        <td>{{ page.staring }}</td>
+                        {% for staring in page.staring %} 
+                        <td>{{ staring }}</td>
+                        {% endfor %}
                     </tr>
                 </table>
             </article>
