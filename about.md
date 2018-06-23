@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-description: Movies, Music, Art, Tomfoolery. 
+description: Movies, Music, Art, Tomfoolery.
 permalink: /about/
 ---
 
@@ -9,4 +9,4 @@ permalink: /about/
 
 ## About
 
-How Dare You Review is a place for people who love pop culture, but have absolutely no buisness talking about it - to talk about it.
+How Dare You Review is a place for people who love pop culture, but have absolutely no business talking about it - to talk about it.
