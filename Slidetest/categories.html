@@ -1,5 +1,9 @@
-
-   {% for category in site.category  %}
+---
+layout: minimal
+title: "#categories"
+description: "categories"
+---
+  {% for category in site.category  %}
   <section> 
      <div class="wrap aligncenter">
     <span class="category-title" id="{{ category[0] | slugify }}">{{ category[0] }}</span>
