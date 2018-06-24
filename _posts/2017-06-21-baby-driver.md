@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Big Sick"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529864848/the-big-sick.jpg'
+title: "Baby Driver"
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529865791/baby-driver.png'
 description: There's nothing groundbreaking about this movie, but it's heartfelt and hilarious.
 category: 'rom-com'
 tags:
@@ -9,18 +9,19 @@ tags:
 twitter_text: There's nothing groundbreaking about this movie, but it's heartfelt and hilarious.
 introduction: There's nothing groundbreaking about this movie, but it's heartfelt and hilarious.
 author: Zach Saul
-score: 90
-director: Michael Showalter
-written-by: 
-- Kumail Nanjiani
-- Emily V. Gordon
-studio: Apatow Productions
-date: 2017-07-14
+score: 72
+director: Edgar Wright
+written-by: Edgar Wright
+studio: 
+- Media Rights Capital
+- Big Talk Productions
+date: 2017-06-21
 staring: 
-- Kumail Nanjiani
-- Zoe Kazan
-- Holly Hunter
-- Ray Romano
+- Ansel Elgort
+- Lily James
+- Eiza González
+- Jon Hamm
+- Jamie Foxx
 ---
 The Big Sick is probably the funniest movie I've seen in several years. I know it's going to get labeled as a "rom-com", but I was laughing out loud for all 124 minutes of it. I had my doubts before seeing it that Kumail Nanjiani (The Pakistani guy from Silicon Valley) could carry a movie for 90 minutes, but he demonstrated an impressive emotional range. Impressive as he was, a friend and I agreed that the real star of the movie was Zoe Kazan, who seems destined to claim the "girl next door" throne should she so choose. We both left the theatre disappointed her illness kept her out of about a third of the film. Thankfully a delightfully deadpan Ray Romano and the spunky Holly Hunter carried the Big Sick through Kazan's absence. There's nothing groundbreaking about this movie, but it's heartfelt, hilarious, and every time you can feel an overly cliched moment approaching it sidesteps it in a very interesting way.
 
