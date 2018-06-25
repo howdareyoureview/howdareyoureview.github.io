@@ -20,6 +20,7 @@ description: "Procure por sua #tag favorita."
 </div>
 
 {% for tag in site.tags  %}
+    <div class="tag-wrapper">
     <span class="tag-title" id="{{ tag[0] | slugify }}">{{ tag[0] }}</span>
     <ul class="post-list">
         {% assign pages_list = tag[1] %}
@@ -33,4 +34,6 @@ description: "Procure por sua #tag favorita."
         {% assign pages_list = nil %}
         {% assign group = nil %}
     </ul>
+</span>
+</div>
 {% endfor %}
