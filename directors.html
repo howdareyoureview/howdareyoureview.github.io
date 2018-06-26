@@ -3,9 +3,10 @@ layout: minimal
 title: "#Directors"
 permalink: /directors/index.html
 description: "Procure por sua #tag favorita."
+director: [John Mark, Mark John]
 ---
 
 <div class="tags">
-{% for director in site.director  %}
+{% for director in page.director  %}
 <span class="tag-title" id="{{ director[0] | slugify }}">{{ director[0] }}</span>
 {% endfor %}
