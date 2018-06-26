@@ -5,20 +5,6 @@ permalink: /directors/index.html
 description: "Procure por sua #tag favorita."
 ---
 
-<div class="tags">
-{% assign director_list = site.director %}
-  {% if director_list.first[0] == null %}
-    {% for director in director_list %}
-        <a href="#{{ director | slugify }}">{{ director }}</a>
-    {% endfor %}
-  {% else %}
-    {% for director in director_list %}
-        <a href="#{{ director[0] | slugify }}">{{ director[0] }}</a>
-    {% endfor %}
-  {% endif %}
-{% assign director_list = nil %}
-</div>
-
 {% for director in site.director  %}
     <div class="tag-wrapper">
     <span class="tag-title" id="{{ director[0] | slugify }}">{{ director[0] }}</span>
