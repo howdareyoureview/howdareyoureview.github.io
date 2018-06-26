@@ -6,6 +6,6 @@ description: "Procure por sua #tag favorita."
 ---
 
 <div class="tags">
-{% for tag in site.tags  %}
-<span class="tag-title" id="{{ tag[0] | slugify }}">{{ tag[0] }}</span>
+{% for director in site.director  %}
+<span class="tag-title" id="{{ director[0] | slugify }}">{{ director[0] }}</span>
 {% endfor %}
