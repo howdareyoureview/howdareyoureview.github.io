@@ -1,0 +1,39 @@
+---
+layout: minimal
+title: "#Directors"
+permalink: /directors/index.html
+description: "Procure por sua #tag favorita."
+---
+
+<div class="directors">
+{% assign director_list = site.director %}
+  {% if director_list.first[0] == null %}
+    {% for director in director_list %}
+        <a href="#{{ director | slugify }}">{{ director }}</a>
+    {% endfor %}
+  {% else %}
+    {% for director in director_list %}
+        <a href="#{{ director[0] | slugify }}">{{ director[0] }}</a>
+    {% endfor %}
+  {% endif %}
+{% assign director_list = nil %}
+</div>
+
+{% for director in site.director  %}
+    <div class="director-wrapper">
+    <span class="director-title" id="{{ director[0] | slugify }}">{{ director[0] }}</span>
+    <ul class="post-list">
+        {% assign pages_list = director[1] %}
+        {% for post in pages_list reversed %}
+            {% if post.title != null %}
+            {% if group == null or group == post.group %}
+            <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%m/%d/%Y" }}</time></a></li>
+            {% endif %}
+            {% endif %}
+        {% endfor %}
+        {% assign pages_list = nil %}
+        {% assign group = nil %}
+    </ul>
+</span>
+</div>
+{% endfor %}
