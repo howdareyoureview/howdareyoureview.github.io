@@ -18,12 +18,15 @@ description: "Procure por sua director favorita."
 
 {% for director in directors %}
 <div class="director-wrapper">
+	<div class="director-title-wrapper">
   {% if director.name == "" %}
     {% assign name = "Anonymous" %}
   {% else %}
     {% assign name = director.name %}
   {% endif %}
+  <img src="https://res.cloudinary.com/how-dare-you-review/image/upload/{{ name | slugify }}.jpg">
   <span class="director-title" id="{{ name | slugify }}">{{ name | debug }}</span>
+</div>
     <ul class="post-list">
       {% assign pages_list = director.items %}
       {% for post in pages_list reversed %}
