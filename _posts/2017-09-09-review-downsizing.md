@@ -8,7 +8,6 @@ tags:
 - Matt Damon
 - Kristen Wig
 - comedy
-twitter_text: What a waste of a great premise. I could have done without the tiny gigolos.
 introduction: What a waste of a great premise. I could have done without the tiny gigolos.
 score: 51
 author: Zach Saul
