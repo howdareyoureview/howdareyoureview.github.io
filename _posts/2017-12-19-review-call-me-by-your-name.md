@@ -6,7 +6,7 @@ description: Call Me by Your Name isn't just pretty, it's the type of pretty tha
 category: 'romance'
 tags: 
 - oscar nominee
-- Timothée Chalamet
+- Timothee Chalamet
 - Armie Hammer
 - Luca Guadagnino
 - romance
