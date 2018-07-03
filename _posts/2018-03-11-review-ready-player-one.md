@@ -12,6 +12,7 @@ twitter_text: If Jackson Pollock were a 21st century sci-fi film, it would undou
 introduction: If Jackson Pollock were a 21st century sci-fi film, it would undoubtedly be Ready Player One.
 score: 74
 author: Zach Saul
+director: Steven Spielberg
 ---
 Ready Player One made me deeply dizzy, forced to smile, and deeply nostalgic in the same two hours. Despite plenty of problems is absolutely worth the price of admission. While I found the "Oasis" universe to be pretty unattractive, and unnecessary - I have to admire it's expansiveness. The filmmakers for Ready Player One clearly did a lot of thinking about what a world inside a video game would look and feel like, and created an aesthetic that if nothing else was unique, and distinct. The problem this creates (and it's not specific to Ready Player One - Marvel has some movies that suffer from this as well) is too often I felt like I was watching someone else play a video game instead of exploring a new universe.
 

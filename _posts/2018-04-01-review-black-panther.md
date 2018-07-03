@@ -11,6 +11,7 @@ twitter_text: Well-written characters, and an interesting premise make it an ent
 introduction: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness. 
 score: 80
 author: Zach Saul
+director: Ryan Coogler
 ---
 Black Panther like most Marvel flicks - is a really fun movie, that's self-aware, funny, and beautifully designed. Wakanda will be an awesome eddition to the Marvel universe - and I can't wait to see what future films do with the socio-political ideas in Black Panther. 
 

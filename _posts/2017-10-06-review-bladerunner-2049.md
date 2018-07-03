@@ -15,6 +15,7 @@ twitter_text: Breathtakingly beautiful to look at, sensative, and more focussed 
 introduction: Breathtakingly beautiful to look at, sensative, and more focussed than the original - Bladerunner 2049 is my favorite movie of 2017.
 author: Zach Saul
 score: 96
+director: Denis Villeneuve
 ---
 
 *Bladerunner: 2049* is not an action movie. It's a slow meditative sci-fi mystery that rich with subtleties, nuance and symbolism. Bladerunner: 2049 is one of the most magnificent visual achievements of the past 5 years. The vivid colors, dystopian landscapes, and obnoxious product placement paint an engrossing picture of a post-apocalyptic world. The bleakness, and in many cases relentlessness of commercialism in the movie makes it easy to loose yourself in the moodiness, and meditate alongside Joe. Denis Villenueve seems to grasp how big the ideas are in Bladeruner, and to his credit moves slowly enough to let you meditate on them, choosing substance over cheap thrills when conflict arises. 

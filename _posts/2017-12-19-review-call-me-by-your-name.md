@@ -8,12 +8,13 @@ tags:
 - oscar nominee
 - Timothée Chalamet
 - Armie Hammer
-- ALuca Guadagnino
+- Luca Guadagnino
 - romance
 twitter_text: Call Me by Your Name isn't just pretty, it's the type of pretty that lulls you into a trace as it runs. 
 introduction: Call Me by Your Name isn't just pretty, it's the type of pretty that lulls you into a trace as it runs. 
 score: 88
-author: Zach Saul 
+author: Zach Saul
+director: Luca Guadagnino
 ---
 It's strange to sit through a movie where the conflicts felt so insignificant - but at the end it was clear Guadagnino did this intentionally - as Call me by Your Name isn't about how difficult it is to be gay, and the struggle homosexuals go through to realize their preference. There are plenty of other movies  (specifically last years best picture Moonlight) that cover that in detail. Instead Call Me By Your Name is a meditation on first love - desire, and that feeling that "gee, isn't love grand?". Pretentious as it sounds: Call Me By Your Name is also what i imagine a love poem would look and sound like if it were somehow translated onto the big screen.
 

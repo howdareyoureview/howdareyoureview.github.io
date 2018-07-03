@@ -2,7 +2,7 @@
 layout: post
 title: "Downsizing"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528848280/str2_ttdownsizing_terencetoh_2-770x470.jpg'
-description: What a waste of a great premise. I could have done without the tiny gigolos.       
+description: What a waste of a great premise. I could have done without the tiny gigolos.  
 category: 'Comedy'
 tags:
 - Matt Damon
@@ -12,6 +12,7 @@ twitter_text: What a waste of a great premise. I could have done without the tin
 introduction: What a waste of a great premise. I could have done without the tiny gigolos.
 score: 51
 author: Zach Saul
+director: Alexander Payne
 ---
 Man, what a shame it is that better writers/filmmakers didn't get ahold of the Downsizing rights, because it's actually a really cool concept. What we got instead was a 2 hour 15 minute mess of disconnected ideas, and unlikeable characters. What's so infuriating about Downsizing is all of the concepts, questions, and ideas they chose NOT to explore - and not necessarily the sleepy screenplay they DID make. So in that spirit Instead of engaging deeply with what I felt was a lazy and poorly written movie for this review: I'm going to outline my two ideas for how to fix it.
 

@@ -13,6 +13,7 @@ twitter_text: Isle of Dogs is a beautiful, funny, and somewhat underwritten film
 introduction: Isle of Dogs is a beautiful, funny, and somewhat underwritten film.
 score: 91
 author: Zach Saul  
+director: Wes Anderson
 ---
 
 Isle of Dogs is a visual masterpiece unlike anything Wes Anderson has ever created - and the art direction and craftsmanship that went into this film are breathtaking. In his live-action films, there are moments where Wes Anderson's "just-so" (a term used by his critics) aesthetic can feel overdone and contrived. However, in stop-motion, the care and thought Anderson put into every detail fits perfectly and is so much fun to watch onscreen.

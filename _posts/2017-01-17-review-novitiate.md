@@ -14,6 +14,7 @@ twitter_text: Novitiate is sensitive, thought-provoking, and intimate and lends 
 introduction: Novitiate is sensitive, thought-provoking, and intimate and lends both skepticism and admiration for the Catholic Church.
 score: 88
 author: Zach Saul
+director: MAggie Betts
 ---
 
 Novitiate is at times maddeningly slow, but it does examine faith - specifically the love that accompanies faith in a really intelligent way. As a secular person - I may never fully understand why religious people love God so much - but I can identify with the underlying existential desires. For this film's nuns there is a complicated relationship between sacrifice/suffering. In some cases the church condones "extreme acts of penance" and these acts accompany deep loving feelings. While this seems utterly ridiculous to the passing observer (not raised in organized religion) Novitiate's greatest achievement is a long and nuanced meditation on to what extent suffering contributes to intimacy.

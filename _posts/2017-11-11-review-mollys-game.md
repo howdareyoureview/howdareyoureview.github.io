@@ -14,6 +14,7 @@ twitter_text: Sorkin's Vegas-drama left me wanting more from it's main character
 introduction: Sorkin's Vegas-drama left me wanting more from it's main characters - but the source material still carries it.
 score: 74
 author: Zach Saul
+director: Aaron Sorkin
 ---
 Molly's Game is a well acted, occasionally quirky movie that too often felt like a trial instead of a narrative. Not the sort of trial you'd see on TrueTV, but instead a protagonist being put on trial by the screenwriter - while her inner monologue gets cast into the background. I haven't read the book Molly's Game (on which the movie is loosely based) but after watching the film I felt like i really should have liked Molly more - or at least have been more interested in her plight. Is Molly involved in the world's high stakes games to prove her independence? Spite her father? Unleash repressed anger against the wall street elites? Why was she such a thunderous protector of her anonymous players? Too often I wondered if I should feel annoyed that Molly was being braggadocious, or sorry for her: as the men in her life mistreat her. I am a huge Aaron Sorkin fan, but I wish his screenplay would have explored some of these questions more deeply. Molly's Game is entertaining, and stylistically engaging - but I left the theatre wondering why Molly's story mattered more then my neighbor Derek's who coaches the 10th ranked 6th grade basketball team in the nation.
 
