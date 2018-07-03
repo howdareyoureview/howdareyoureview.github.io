@@ -32,7 +32,9 @@
                         <td>{{ page.studio }}</td>
                     </tr>
                     <tr><th>Director:</th>
+                        {% for director in page.director %}
                         <td><a href="{{ site.baseurl }}/directors/#{{page.director | slugify }}">{{ page.director }}</a></td>
+                        {% endfor %}
                     </tr>
                     <tr><th>Written By:</th>
                         <td>{{ page.written-by }}</td>
