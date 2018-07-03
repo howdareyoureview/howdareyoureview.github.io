@@ -24,7 +24,7 @@ description: "Procure por sua director favorita."
   {% else %}
     {% assign name = director.name %}
   {% endif %}
-  <div class="details-pic-wrapper" style=" height: 150px; width: 150px;background: url('https://res.cloudinary.com/how-dare-you-review/image/upload/{{ name | slugify }}.jpg');"></div>
+  <div class="details-pic-wrapper" style=" height: 150px; width: 150px;background: url('https://res.cloudinary.com/how-dare-you-review/image/upload/ar_1:1,c_fill,g_auto/{{ name | slugify }}.jpg');"></div>
   <span class="director-title" id="{{ name | slugify }}">{{ name | debug }}</span>
 </div>
     <ul class="post-list">
