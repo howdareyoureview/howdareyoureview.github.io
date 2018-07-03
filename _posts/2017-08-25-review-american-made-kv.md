@@ -13,6 +13,7 @@ twitter_text: Stylistic portrayal of a degenerate but Tom Cruise gives it a boos
 introduction: Stylistic portrayal of a degenerate but Tom Cruise gives it a boost with his usual charisma.
 author:  Kleon Van
 score: 69
+director: Doug Liman
 ---
 
 

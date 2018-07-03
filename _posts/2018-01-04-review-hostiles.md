@@ -13,6 +13,7 @@ twitter_text: Hostiles is deeply unplesant on purpose, but I'm unsure what that 
 introduction: Hostiles is deeply unplesant on purpose, but I'm unsure what that purpose is...
 score: 63
 author: Zach Saul 
+director: Scott Cooper
 ---
 Hostiles is a beautiful visual experience, but a very unpleasant emotional experience. Headlined by an A-list cast including Chrisian Bale, Rosamund Pike, and actor of the moment Timothee Chalamet (the man has been in close to every movie the last 18 months), this is a weakly written script about a powerful subject matter. Hostiles gets-by for much of the movie on gorgeous cinematography and a healthy dose of moral ambiguity. The problem is its crescendos feel forced, and when tragedy strikes (as it does every twenty minutes or so) it feels aggrandized instead of explained. The movie deserves a lot of credit for attempting to tell a nuanced story about racism and native Americans in the 1800s - but the screenplay fails to paint any of the characters with enough depth for their plights to resonate fully.
 

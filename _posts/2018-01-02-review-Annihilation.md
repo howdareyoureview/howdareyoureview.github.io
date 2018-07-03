@@ -13,6 +13,7 @@ twitter_text: Annihilation is hyper-symbolic and requires a lot of its audience,
 introduction: Annihilation is hyper-symbolic and requires a lot of its audience, and for the most part the ideas are worth it.
 score: 82
 author: Zach Saul
+director: Alex Garland
 ---
 Annihilation is a deeply ambitious movie that's equal parts cryptic, brilliant, and frustrating. The movie explores the plight of four depressed women who decide to enter a mysterious bubble inside which people have been disappearing. It's a familiar sounding premise about alien presence on earth but turns in much more interesting directions than you'd expect for an invasion movie. Annihilation focusses on the intricacies of a "refracted" universe that scrambles everything together. We follow four people who decide to enter the "shimmer" for different reasons but all of them are struggling with depression or feelings of sadness.
 

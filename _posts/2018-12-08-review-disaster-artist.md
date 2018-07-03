@@ -5,17 +5,16 @@ date: 2017-08-07 23:04:08
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528917996/the-disaster-artist-james-franco-dave-franco.jpg'
 description: The Disaster Artist misses the mark, and glazes over the interesting questions we have for The Room.  
 category: 'comedy'
-tags:
+staring:
 - Allison Brie
 - James Franco
 - Dave Franco
 - Seth Rogen
-- Tommy Wiseau
-- comedy
 twitter_text: The Disaster Artist misses the mark, and glazes over the interesting questions we have for The Room.
 introduction: The Disaster Artist misses the mark, and glazes over the interesting questions we have for The Room.
 score: 60
 author: Zach Saul
+director: James Franco
 ---
 
 I have to admit....I was hoping for more from The Disaster Artist and more specifically James Franco's Tommy Wiseau. one of the reasons I was excited to see the movie is because portraying someone like Tommy is really, really ambitious. Not because he's an unrealized genius, because turning Tommy into a likable character seemed like a challenge given how little we know about him.

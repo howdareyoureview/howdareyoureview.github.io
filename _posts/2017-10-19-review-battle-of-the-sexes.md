@@ -4,7 +4,7 @@ title: "Battle of the Sexes"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529167993/hero_Battle-of-the-Sexes-TIFF-2017.jpg'
 description: Emma Stone is brilliant as Billie Jean, if only the movie around her was a little more focused.      
 category: 'sports'
-tags:
+starring:
 - Emma Stone
 - Steve Carrell
 - Andrea Riseborough
@@ -16,6 +16,9 @@ twitter_text: Emma Stone is brilliant as Billie Jean, if only the movie around h
 introduction: Emma Stone is brilliant as Billie Jean, if only the movie around her was a little more focused.
 author: Zach Saul
 score: 83
+director: 
+- Valerie Faris
+- Jonathan Dayton 
 ---
 
 Battle of The Sexes has some impossibly fun source material to draw from. the "Male Chauvinist Pig" (Bobby Riggs played by Steve Carrell)  against the young, smart, and talented Billie Jean King (Emma Stone) square off in the battle for gender supremacy.  Before reading about this exhibition tennis match I always thought "battle of the sexes" was reserved for family feud reruns and bored summer camp counselors.

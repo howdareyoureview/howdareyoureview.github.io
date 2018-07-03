@@ -4,17 +4,15 @@ title: "Three Billboards Outside Ebbing, Missouri"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528918796/billbs.jpg'
 description: 3 Billboards is a morally ambiguous masterpiece, and Frances McDormand's performance is legendary.    
 category: 'drama'
-tags:
-- Martin McDonagh
+staring:
 - Frances McDormand
 - Woody Harrelson
 - Sam Rockwell
-- indie
-- drama
 twitter_text: 3 Billboards is a morally ambiguous masterpiece, and Frances McDormand's performance is legendary.
 introduction: 3 Billboards is a morally ambiguous masterpiece, and Frances McDormand's performance is legendary.
 score: 92
 author: Zach Saul
+director: Martin McDonagh
 ---
 
 Three Billboards Outside Ebbing, Missouri is a movie for anyone who's ever felt angry, and helpless against injustice going on in the world around them. On the surface this is a regular vigilante story about a woman who takes matters into her own hands to solve her daughter's murder. However, what Mildrid (Frances McDormand) encounters in her quest for answers is that anger seems to be contagious and gamesmanship, and fear is the true motivation behind everyone's actions. Mildrid fears the death of her daughter is her fault, Dixon fears he might actually be a racist, and Chief Willoughby fears he's lost a grasp on his department.

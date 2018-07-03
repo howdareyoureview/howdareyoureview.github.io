@@ -13,6 +13,7 @@ twitter_text: Why can't it just be about my skating? is a question for the ages.
 introduction: Why can't it just be about my skating? is a question for the ages.
 score: 87
 author: Zach Saul 
+director: Craig Gillespie
 ---
 At its core, I Tonya is a movie about classism, and to what extent "nurture" can explain someone's poor behavior. Allison Janney and Margot Robbie have an excellent chemistry together and their wry wit works well throughout the movie. What makes I, Tonya work isn't it's shattering of the fourth wall or its flashy editing; it's that its characters are riddled with moral ambiguity, and the audience teeters between loving at hating them. 
 I, Tonya hammers the question into the ground: if we expect someone who "looks" like white trash to behave like white trash, what chance are we giving poor people from middle America to escape a familiar fate? What degree of knowledge and premeditation did real-life Tonya have in the bludgeoning of Nancy Kerrigan? Only Tonya knows. However, this film definitely made me believe that classism in the skating community is a huge problem; particularly for women for whom image standards are harsher and more unforgiving. There's a particularly poignant line in the film where Tonya innocently asks a judge in a parking garage: 

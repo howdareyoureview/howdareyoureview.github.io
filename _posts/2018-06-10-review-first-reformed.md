@@ -12,6 +12,7 @@ twitter_text: First Reformed is egregiously mis-marketed, and badly underwritten
 introduction: First Reformed is egregiously mis-marketed, and badly underwritten. Religious symbols aren't enough to save this sleepy script.
 score: 59
 author: Zach Saul
+director: Paul Schrader
 ---
 First Reformed is about an environmentalist who killed himself and the aftermath surrounding his suicide and two churches in upstate New York. An interesting confrontation between an environmental extremist and a priest ended in the first fifteen minutes, and so too did the tension keeping the narrative going. There are big ideas that get thrown out in many of the movie’s sequences, but they’re sadly left to die, unexplored.
 
