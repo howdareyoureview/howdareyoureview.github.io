@@ -17,9 +17,7 @@ twitter_text: Worlds collide both literally and metaphorically in Infinity Wars 
 introduction: Worlds collide both literally and metaphorically in Infinity Wars - a comic book nerd's wet dream.
 author: Zach Saul
 score: 82 
-director: 
-- Anthony Russo
-- Joe Russo
+director: [Anthony Russo, Joe Russo]
 ---
 
 
