@@ -12,9 +12,7 @@ twitter_text: I want the name and phone numbers to everyone who worked on this m
 introduction: I want the name and phone numbers to everyone who worked on this movie so I can ask them if they've ever seen a cartoon, or better yet a child before.
 score: 35
 author: Zach Saul
-director: 
-- Kevin Deters
-- Stevie Wermers
+director: Kevin Deters
 ---
 
 I realize there are things in the world much more worthy of my anger and attention, but I'd like to remind everyone reading this; that nobody forced you to click on this review. A grade of "35" is in the title, so you knew what you were getting yourself into. On Wednesday night, myself, a very cranky group of four year olds, and a few work colleagues endured the worst 22 minutes I've spent in a movie theatre this decade.
