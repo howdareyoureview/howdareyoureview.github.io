@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Star Wars the Last Jedi"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528850571/hero_Last_Jedi.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528850571/last-jedi.jpg'
 description: The Last Jedi definately gives you your money's worth action-wise, and sets up the new trilogy's conclusion.    
 category: 'sci-fi'
 tags: 

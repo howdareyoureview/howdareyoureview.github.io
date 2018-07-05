@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Call Me by Your Name"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528850686/Call-Me-By-Your-Name-1-1600x900-c-default.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528850686/call-me-by-your-name.jpg'
 description: Call Me by Your Name isn't just pretty, it's the type of pretty that lulls you into a trace as it runs.     
 category: 'romance'
 tags: 
