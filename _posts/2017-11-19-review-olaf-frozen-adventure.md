@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Olaf's Frozen Adventure"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528952421/1180w-600h_112017_olaf-frozen-adventure-q-and-a-780x440.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528952421/olaf.jpg'
 description: I want the name and phone numbers to everyone who worked on this movie so I can ask them if they've ever seen a cartoon, or better yet a child before.     
 category: 'animated'
 tags:
