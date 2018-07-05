@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Annihilation"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528674428/_38aee3f0-266b-11e8-9f95-06a811d7e716.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528674428/annihilation.jpg'
 description: Annihilation is hyper-symbolic and requires a lot of its audience, and for the most part the ideas are worth it.
 category: 'sci-fi'
 tags:
