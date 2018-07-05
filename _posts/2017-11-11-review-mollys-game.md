@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Molly's Game"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528829062/mollys-game-molly_unit_03284r_rgb_wide-825457a813cdde23b3913c3441df14d79c4b7cb1-s900-c85.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528829062/mollys-game.jpg'
 description: Sorkin's Vegas-drama left me wanting more from it's main characters - but the source material still carries it.    
 category: 'Drama'
 tags:
