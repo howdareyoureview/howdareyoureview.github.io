@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Review: The Meyerowitz Stories | 90 A-"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529128791/f_389483.jpg'
+title: "The Meyerowitz Stories"
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529128791/meyerowitz.jpg'
 description: Woody-Allen-esque in their structure, people will be kvelling over Baumbach's newest vignettes. 
 category: 'Drama'
 tags: 

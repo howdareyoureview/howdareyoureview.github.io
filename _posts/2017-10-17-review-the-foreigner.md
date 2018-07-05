@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Foreigner"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529129309/Jackie-Chan-The-Foreigner-Exclusive-Report-Kung-Fu-Kingdom-770x472.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529129309/foreigner.jpg'
 description: Chan's action scenes deliver on the promises the trailer makes - sadly the movie around him didn't.  
 category: 'Action'
 tags: 

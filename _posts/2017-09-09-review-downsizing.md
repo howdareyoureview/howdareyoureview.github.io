@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Downsizing"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528848280/str2_ttdownsizing_terencetoh_2-770x470.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528848280/downsizing.jpg'
 description: What a waste of a great premise. I could have done without the tiny gigolos.  
 category: 'Comedy'
 tags:

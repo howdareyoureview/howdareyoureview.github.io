@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: The Florida Project | 70 C-"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529037317/TFP-cover.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529037317/florida.jpg'
 description: Cute, complicated, and deeply unpleasant. I both admire the Florida Project and at the same time never want to see it again.
 category: 'drama'
 tags:

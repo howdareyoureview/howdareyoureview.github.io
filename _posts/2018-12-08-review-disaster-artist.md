@@ -2,7 +2,7 @@
 layout: post
 title: "The Disaster Artist"
 date: 2017-08-07 23:04:08
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528917996/the-disaster-artist-james-franco-dave-franco.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528917996/disaster-artist.jpg'
 description: The Disaster Artist misses the mark, and glazes over the interesting questions we have for The Room.  
 category: 'comedy'
 tags: 
