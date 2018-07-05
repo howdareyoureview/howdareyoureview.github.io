@@ -3,9 +3,9 @@ layout: post
 title: "Won't You Be My Neighbor?"
 category: doccumentary
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528958645/wont-you-be-my-neighbor.jpg'
-description: Won't You Be My Neighbor contains a really rich amount of detail that helped me understand Fred Rodgers in a new way. 
-twitter_text: Won't You Be My Neighbor contains a really rich amount of detail that helped me understand Fred Rodgers in a new way.
-introduction: Won't You Be My Neighbor contains a really rich amount of detail that helped me understand Fred Rodgers in a new way.
+description: Won't You Be My Neighbor contains a rich amount of detail that helped me understand Fred Rodgers in a new way. 
+twitter_text: Won't You Be My Neighbor contains a rich amount of detail that helped me understand Fred Rodgers in a new way.
+introduction: Won't You Be My Neighbor contains a rich amount of detail that helped me understand Fred Rodgers in a new way.
 director: Morgan Neville 
 staring:
 - Fred Rodgers
