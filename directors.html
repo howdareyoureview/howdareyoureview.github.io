@@ -25,7 +25,7 @@ description: "Procure por sua director favorita."
     {% assign name = director.name %}
   {% endif %}
   <div class="details-pic-wrapper" style="background: url('https://res.cloudinary.com/how-dare-you-review/image/upload/ar_1:1,c_fill,g_auto/{{ name | slugify }}.jpg');">-</div>
-  <span class="director-title" id="{{ name | slugify }}">{{ name | debug }}</span>
+  <div class="director-title" id="{{ name | slugify }}">{{ name | debug }}</div>
 </div>
     <ul class="post-list">
       {% assign pages_list = director.items %}
