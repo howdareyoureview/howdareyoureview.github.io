@@ -4,7 +4,7 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 /**MOVIE DETAILS TABLE**/
 table.movie-credits tr th, table.movie-credits tr td {border: none;} 
 table.movie-credits tr th {text-align:left;}
-table.movie-credits {min-width: 500px; border-collapse:collapse; font-family: helvetica; font-weight: light; color: #444;}
+table.movie-credits {min-width: 500px; border-collapse:collapse; font-family: helvetica; font-weight: 200; color: #444;}
 table.movie-credits tbody tr td {border-bottom: solid 2px #cdcdcd;} 
 tr:first-child {background: #333; color: #fff;}
 tr.odd {background: #eee;}
