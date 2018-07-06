@@ -28,12 +28,12 @@
 
                 {{ content }}
                 <table class="movie-credits">
-                    <tr><th>Movie Details</th>
+                    <tr classs='odd'><th>Movie Details</th>
                     </tr>
                     <tr><th>Studio:</th>
                         <td>{{ page.studio }}</td>
                     </tr>
-                    <tr><th>Director:</th>
+                    <tr classs='odd'><th>Director:</th>
                         {% for director in page.director %}
                         <td><a href="{{ site.baseurl }}/directors/#{{page.director | slugify }}">{{ page.director }}</a></td>
                         {% endfor %}
@@ -41,7 +41,7 @@
                     <tr><th>Written By:</th>
                         <td>{{ page.written-by }}</td>
                     </tr>
-                    <tr><th>Staring:</th>
+                    <tr classs='odd'><th>Staring:</th>
                         {% for staring in page.staring %} 
                         <td>{{ staring }}</td>
                         {% endfor %}
