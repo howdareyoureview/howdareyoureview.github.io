@@ -5,9 +5,9 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 table.movie-credits tr th, table.movie-credits tr td {border: none;} 
 table.movie-credits tr th {text-align:left;}
 table.movie-credits {min-width: 500px; border-collapse:collapse; font-family: helvetica; font-weight: 200; color: #444;}
+table.movie-credits th {font-weight: 200;}
 table.movie-credits tbody tr td {border-bottom: solid 2px #cdcdcd;} 
-tr:first-child {background: #333; color: #fff;}
-tr.odd {background: #eee;}
+tr.odd {background: #ddd;}
 /**DIRECTOR PAGE**/
 .director-title-wrapper {margin: 1.563rem auto;} 
 .details-pic-wrapper {background-size: 150px 150px!important; height: 150px; width: 150px; border-radius: 50%; margin: 1.463rem auto;} 
