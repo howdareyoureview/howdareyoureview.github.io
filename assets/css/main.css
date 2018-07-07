@@ -15,5 +15,5 @@ tr.odd {background: #ddd;}
 .director-title {text-align: center; font-family: helvetica;font-weight: 100; font-size:1.5rem;color:#555;} 
 .director-wrapper {min-height: 100vh; padding-top: 7.5vh;}
 
-.director-title:before {display: block; content: " "; margin-top: -285px; height: 285px; visibility: hidden; pointer-events: none;} 
+.director-title:before {display: block; content: " "; margin-top: 20vh; height: 20vh; visibility: hidden; pointer-events: none;} 
   
