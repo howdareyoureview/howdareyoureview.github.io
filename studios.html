@@ -1,0 +1,39 @@
+---
+layout: minimal
+title: "#Studios"
+permalink: /studios/index.html
+description: "Procure por sua studio favorita."
+---
+<div class="studio">
+  {% assign studios = site.posts | group_by: 'studio' | sort: "name" %}
+  {% for studio in studios %}
+    {% if studio.name == "" %}
+      {% assign name = "Anonymous" %}
+    {% else %}
+      {% assign name = studio.name %}
+    {% endif %}
+    <a href="#{{ name | slugify }}">{{ name }}</a>
+  {% endfor %}
+</div>
+
+{% for studio in studios %}
+<div class="studio-wrapper">
+	<div class="studio-title-wrapper">
+  {% if director.name == "" %}
+    {% assign name = "Anonymous" %}
+  {% else %}
+    {% assign name = director.name %}
+  {% endif %}
+  <div class="studio-title" id="{{ name | slugify }}">{{ name | debug }}</div>
+  <div class="studio-pic-wrapper" style="background: url('https://res.cloudinary.com/how-dare-you-review/image/upload/ar_1:1,c_fill,g_auto/{{ name | slugify }}.jpg');">-</div>
+  
+</div>
+    <ul class="post-list">
+      {% assign pages_list = studio.items %}
+      {% for post in pages_list reversed %}
+        <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%m/%d/%Y" }}</time></a></li>
+      {% endfor %}
+    </ul>
+  </span>
+</div>
+{% endfor %}
