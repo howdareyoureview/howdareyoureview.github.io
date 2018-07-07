@@ -6,7 +6,7 @@ table.movie-credits tr th, table.movie-credits tr td {border: none;}
 table.movie-credits tr th {text-align:left;}
 table.movie-credits {min-width: 500px; border-collapse:collapse; font-family: helvetica; font-weight: 200; color: #444;}
 table.movie-credits th {font-weight: 200;}
-table.movie-credits tbody tr td {border-bottom: solid 2px #cdcdcd;} 
+table.movie-credits tbody tr {border-bottom: solid thin #cdcdcd;} 
 tr.odd {background: #ddd;}
 /**DIRECTOR PAGE**/
 .director-title-wrapper {margin: 1.563rem auto;} 
