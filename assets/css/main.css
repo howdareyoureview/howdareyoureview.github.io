@@ -14,3 +14,6 @@ tr.odd {background: #ddd;}
 .details-pic-wrapper {background-size: 150px 150px!important; height: 150px; width: 150px; border-radius: 50%; margin: 1.463rem auto;} 
 .director-title {text-align: center; font-family: helvetica;font-weight: 100; font-size:1.5rem;color:#555;} 
 .director-wrapper {min-height: 100vh; padding-top: 7.5vh;}
+
+.director-title:before {display: block; content: " "; margin-top: -285px; height: 285px; visibility: hidden; pointer-events: none;} 
+  
