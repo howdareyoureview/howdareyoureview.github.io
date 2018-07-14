@@ -2,7 +2,7 @@
 layout: post
 title: "Sorry to Bother You"
 category: comedy
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/v1531591201/sorry-to-bother-you.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1531591201/sorry-to-bother-you.jpg'
 description: Sorry to Bother You is and endlessly creative piece of satire - and doesn't relent with it's message or its absurdity. 
 twitter_text: Sorry to Bother You is and endlessly creative piece of satire - and doesn't relent with it's message or its absurdity.
 introduction: Sorry to Bother You is and endlessly creative piece of satire - and doesn't relent with it's message or its absurdity.
