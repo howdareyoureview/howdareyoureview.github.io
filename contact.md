@@ -14,7 +14,9 @@ permalink: /contact/
 
 <div class="container">
 
-  <h2>Talk to me</h2>
+  <h2>Want to talk? Like What you read? Did something we wrote offend you to your very core? We'd love to hear from you.</h2>
+  <h3>If you're insterested in becoming a contributor we'd also love to hear from you. Presently this is a project supported entirely by blood sweat and tears, and we can offer contributors exposure, and a cold crisp PBR in excange for their thoughts - but with any luck, we'll gain traction soon and contributors will all be given gold rolexes, and diamond tiarras.</h3>
+
 
   <div id="form" class="contact-form">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
@@ -27,7 +29,7 @@ permalink: /contact/
                :class="{ 'has-error': errors.has('name') }">
         <span v-if="errors.has('name')" v-cloak>${ errors.first('name') }</span>
 
-        <input type="text" name="email" placeholder="Your e-mail" v-validate="'required|email'"
+        <input type="text" name="email" placeholder="Your e-mail (where the machines can find you)" v-validate="'required|email'"
                :class="{ 'has-error': errors.has('email') }">
         <span v-if="errors.has('email')" v-cloak>${ errors.first('email') }</span>
 
