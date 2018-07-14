@@ -1,7 +1,7 @@
 ---
 layout: main
 ---
-
+{% include funslider.html %}
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
