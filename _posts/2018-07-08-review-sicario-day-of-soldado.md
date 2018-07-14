@@ -2,7 +2,7 @@
 layout: post
 title: "Sicario Day of the Soldado"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/v1531594192/sicario-2.jpg'
-description: Sicario: Day of the Soldado isn't the masterpiece the original was, but it's excellent characters are enough to make it a compelling watch.       
+description: Sicario Day of the Soldado isn't the masterpiece the original was, but it's excellent characters are enough to make it a compelling watch.       
 category: 'action'
 director: Stefano Sollima
 writer: Taylor Sheridan
