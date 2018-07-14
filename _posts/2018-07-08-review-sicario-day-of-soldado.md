@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sicario: Day of the Soldado"
+title: "Sicario Day of the Soldado"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/v1531594192/sicario-2.jpg'
 description: Sicario: Day of the Soldado isn't the masterpiece the original was, but it's excellent characters are enough to make it a compelling watch.       
 category: 'action'
@@ -24,5 +24,5 @@ Despite Emily Blunt's abscence, we are introduced to two promising young charact
 
 **The Good:** Sicario movies will always feature the action scenes in the trailers, but the  rich characters and the mystery is what really elevates them. Despite some signifficant flaws the sequel is extremely entertaining because it's characters are all compelling, complicated, and nuanced in a way other action movie protagonists and villans aren't. The score is still excellent as well - and incorporates major elements from Jóhann Jóhannsson's original. 
 
-**The Bad:** Those that say Sicario 2 was unneccisary, despite the fact I enjoyed the film, have a point. The premise around ISIS bombers was pretty ill-concieved, and despite it being heart-wrenching - it led to some cringe-worthy exchanges between government officials and the "Sicario Fighters". 
+**The Bad:** Those that say Sicario 2 was unneccisary, despite the fact I enjoyed the film, have a point. The premise around ISIS bombers was pretty ill-concieved, and despite it being heart-wrenching - it led to some cringe-worthy exchanges between government officials and the 'Sicario Fighters'. 
 
