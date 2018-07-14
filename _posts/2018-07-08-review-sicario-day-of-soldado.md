@@ -10,8 +10,8 @@ staring:
  - Benicio Del Toro
  - Josh Brolin
  - Isabela Moner
-twitter_text: Sicario: Day of the Soldado isn't the masterpiece the original was, but it's excellent characters are enough to make it a compelling watch.  
-introduction: Sicario: Day of the Soldado isn't the masterpiece the original was, but it's excellent characters are enough to make it a compelling watch.
+twitter_text: Sicario Day of the Soldado isn't the masterpiece the original was, but it's excellent characters are enough to make it a compelling watch.  
+introduction: Sicario Day of the Soldado isn't the masterpiece the original was, but it's excellent characters are enough to make it a compelling watch.
 author: Zach Saul
 score: 87 
 ---
