@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leave No Trace"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528918416/7.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1531882527/leave-no-trace.jpg'
 description: Leave no Trace is a movie with impressive emotional complexity, and and all-time performance by a fresh young actress.
 category: 'drama'
 staring:
@@ -14,7 +14,7 @@ writer:
 - Debra Granik
 twitter_text: Leave no Trace is a movie with impressive emotional complexity, and and all-time performance by a fresh young actress.
 introduction: Leave no Trace is a movie with impressive emotional complexity, and and all-time performance by a fresh young actress.
-score: 
+score: 93
 author: Zach Saul
 
 ---
