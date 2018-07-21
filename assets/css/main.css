@@ -35,7 +35,7 @@ table.movie-credits tbody tr {border-bottom: solid thin #cdcdcd;}
 table.movie-credits tbody tr:first-child {background: #eee; font-weight: lighter; padding: 2%;}
 tr.odd {background: #ddd;}
 table.movie-credits td a {padding: 5px 10px; border-radius: 15px; background: #888; color: #fff;}
-table.movie-credits td a:hover {background: #777;}
+table.movie-credits td a:hover {background: #bbb;}
 
 /**VARIABLE PAGES**/
 .var-title-wrapper {margin: 1.563rem auto;} 
