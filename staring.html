@@ -6,12 +6,7 @@ description: "Procure por sua star favorita."
 ---
 <div class="var-list">
   {% assign stars = site.posts | group_by: 'staring' | sort: "name" %}
-  {% for name in stars %}
-    {% if name == "" %}
-      {% assign name = "Anonymous" %}
-    {% else %}
-      {% assign name = name %}
-    {% endif %}
+  {% for staring in stars %}
     <a href="#{{ name | slugify }}">{{ name }}</a>
   {% endfor %}
 </div>
