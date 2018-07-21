@@ -5,7 +5,7 @@ date: 2018-04-06 23:04:08
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528671134/hero_A-Quiet-Place-2018.jpg'
 description: A Quiet Place is really impressive, and built around brilliant sound-design. 
 category: 'scary'
-staring 
+staring: 
 - Emily Blunt
 - Jon Krazinski
 twitter_text: A Quiet Place is really impressive, and built around brilliant sound-design.
