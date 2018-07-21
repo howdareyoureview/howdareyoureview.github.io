@@ -1,17 +1,15 @@
 ---
 layout: post
 title: "Wind River"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529184334/Wind-River-2.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529184334/wind-river.jpg'
 description: Wind River navigates complicated emotional moments with nuance and skill.
 category: 'crime'
-tags:
-- crime
-- drama
+staring:
 - Jeremy Renner
 - Elizabeth Olsen
 - Elijah Wood
 - Jon Bernthal
-- revenge
+director: Taylor Sheridan
 twitter_text: Wind River navigates complicated emotional moments with nuance and skill.
 introduction: Wind River navigates complicated emotional moments with nuance and skill.
 author: Zach Saul

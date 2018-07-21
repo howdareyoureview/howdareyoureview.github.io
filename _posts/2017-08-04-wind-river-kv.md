@@ -1,16 +1,15 @@
 ---
 layout: post
 title: "Wind River"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529184118/inside-movie-wind-river-renner-2-3-2cc2cc20-bc30-440c-88f6-1f5fdf320875.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529184118/wind-river-2.jpg'
 description: It's powerfully gripping, shot beautifully, and one hell of a crime drama.
 category: 'crime'
-tags: 
-- crime
-- drama
+staring:
 - Jeremy Renner
 - Elizabeth Olsen
 - Elijah Wood
-- revenge
+- Jon Bernthal
+director: Taylor Sheridan
 twitter_text: It's powerfully gripping, shot beautifully, and one hell of a crime drama.
 introduction: It's powerfully gripping, shot beautifully, and one hell of a crime drama.
 author: Kleon Van
