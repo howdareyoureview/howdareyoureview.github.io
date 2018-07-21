@@ -5,7 +5,7 @@ permalink: /staring/index.html
 description: "Procure por sua star favorita."
 ---
 <div class="var-list">
-  {% assign star = site.posts | group_by: 'name' | sort: "staring" %}
+  {% assign star = site.posts | group_by: 'staring' | sort: "staring" %}
   {% for staring in star %}
     {% if staring.name == "" %}
       {% assign name = "Anonymous" %}
