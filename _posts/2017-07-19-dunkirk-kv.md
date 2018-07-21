@@ -4,8 +4,6 @@ title: "Dunkirk"
 image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529787263/dunkirk.jpg'
 description: Another home run from Nolan!
 category: 'war'
-tags:
-- action
 twitter_text: Another home run from Nolan!
 introduction: Another home run from Nolan!
 author: Kleon Van

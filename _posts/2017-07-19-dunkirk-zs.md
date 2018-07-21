@@ -4,8 +4,6 @@ title: "Dunkirk"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529787249/dunkirk-2.jpg'
 description: Dunkirk is the rare movie that engrosses you in a cause and a tragedy rather than a person.
 category: 'war'
-tags:
-- action
 twitter_text: Dunkirk is the rare movie that engrosses you in a cause and a tragedy rather than a person.
 introduction: ADunkirk is the rare movie that engrosses you in a cause and a tragedy rather than a person.
 author: Zach Saul
