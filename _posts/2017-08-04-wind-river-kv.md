@@ -7,7 +7,6 @@ category: 'crime'
 staring:
 - Jeremy Renner
 - Elizabeth Olsen
-- Elijah Wood
 - Jon Bernthal
 director: Taylor Sheridan
 twitter_text: It's powerfully gripping, shot beautifully, and one hell of a crime drama.

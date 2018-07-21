@@ -1,18 +1,17 @@
 ---
 layout: post
 title: "American Made"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529126102/American-Made-Shipment.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529126102/american-made.jpg'
 description: Quirky editing/narration gives it flare, but I can't help but ask if Barry Seal or Tom Cruise for that matter deserves to be glorified for their deceit, decadence, and misogyny.
 category: 'crime'
-tags:
-- crime
-- action
+staring:
 - Tom Cruise
 - Sarah Wright
 twitter_text: Quirky editing/narration gives it flare, but I can't help but ask if Barry Seal or Tom Cruise for that matter deserves to be glorified for their deceit, decadence, and misogyny.   
 introduction: Quirky editing/narration gives it flare, but I can't help but ask if Barry Seal or Tom Cruise for that matter deserves to be glorified for their deceit, decadence, and misogyny.  
 author: Zach Saul
 score: 69
+director: Doug Liman
 ---
 
 Fair Warning: if you love Tom Cruise or Barry Seal, you probably shouldn't read this review.
