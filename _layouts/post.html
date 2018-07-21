@@ -35,7 +35,7 @@
                     </tr>
                     <tr classs='odd'><th>Director:</th>
                         {% for director in page.director %}
-                        <td><a href="{{ site.baseurl }}/directors/#{{page.director | slugify }}">{{ page.director }}</a></td>
+                        <td><a href="{{ site.baseurl }}/directors/#{{ director | slugify }}">{{ director }}</a></td>
                         {% endfor %}
                     </tr>
                     <tr><th>Written By:</th>
