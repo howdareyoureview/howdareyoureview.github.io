@@ -2,12 +2,12 @@
 layout: post
 title: "Baby Driver"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529865791/baby-driver.png'
-description: There's nothing groundbreaking about this movie, but it's heartfelt and hilarious.
-category: 'rom-com'
+description: Despite it's stylistic merit, Baby Driver is more like a really long, cool music video than a great movie.
+category: 'action'
 tags:
 - sequel
-twitter_text: There's nothing groundbreaking about this movie, but it's heartfelt and hilarious.
-introduction: There's nothing groundbreaking about this movie, but it's heartfelt and hilarious.
+twitter_text: Despite it's stylistic merit, Baby Driver is more like a really long, cool music video than a great movie.
+introduction: Despite it's stylistic merit, Baby Driver is more like a really long, cool music video than a great movie.
 author: Zach Saul
 score: 72
 director: Edgar Wright
@@ -23,8 +23,8 @@ staring:
 - Jon Hamm
 - Jamie Foxx
 ---
-The Big Sick is probably the funniest movie I've seen in several years. I know it's going to get labeled as a "rom-com", but I was laughing out loud for all 124 minutes of it. I had my doubts before seeing it that Kumail Nanjiani (The Pakistani guy from Silicon Valley) could carry a movie for 90 minutes, but he demonstrated an impressive emotional range. Impressive as he was, a friend and I agreed that the real star of the movie was Zoe Kazan, who seems destined to claim the "girl next door" throne should she so choose. We both left the theatre disappointed her illness kept her out of about a third of the film. Thankfully a delightfully deadpan Ray Romano and the spunky Holly Hunter carried the Big Sick through Kazan's absence. There's nothing groundbreaking about this movie, but it's heartfelt, hilarious, and every time you can feel an overly cliched moment approaching it sidesteps it in a very interesting way.
+As the final action scene ended, I left the theatre wondering what Baby Driver was trying to be. Is Baby Driver just a really long, really cool music video? Is Baby Driver Edgar Wright's attempt to make a lighter version of Drive (Nicolas Winding Refn)? For me, this movie had some interesting visual and musical ideas (the soundtrack is definitely the most enjoyable part of this film) but lacked the clarity to thread the needle through its jumbled parts. Baby Driver invites you to dance across the streets with Baby (Ansel Elgort) and marvel at the things he can do with a stick shift. He is the gentle criminal with a troubled past who keeps getting pulled deeper and deeper into a world he doesn't belong in. As I watched, the first 45 minutes were a lot of fun - we got a little bit of Baby's backstory, but at the end of the two hours, I just didn't find myself rooting for Baby's character as much as I was questioning his decisions.
 
-The Good: The Big Sick is really good at creating characters you want to root for. Even Kumail's overly rigid Pakistani parents are characters you ultimately grow fond of and root for near the end. Zoe Kazan is a star, and Ray Romano is, in my humble opinion one of the best, and funniest supporting actors in comedy right now.
+The Good: This movie is definitely fun. Fans of the "cat and mouse" crime thrillers will definitely find a lot to like. The style is unique and the way Edgar Wright plays with the soundtrack and syncs the moods and rhythms to the shots on screen is enjoyable to watch. even the staunchest critics of this movie must admit, the dude is definitely good at making movies. Kevin Spacey (Doc) plays an enjoyable villan and is able to tiptoe the line between being edgy, funny and serious pretty effectively. 
 
-The Bad: As has become a tradition for Judd Apatow produced movies - this film is probably 20 minutes too long, and if we're being honest it still contains one or two of the standard cringe-worthy rom-com cliches.
+The Bad: The movie doesn't capitalize on it's early momentum and as it progresses can't decide what tone it wants to take. As the movie progressed, the action scenes felt more like outtakes from tropic thunder than a crime thriller and it dragged through the middle. The characters felt underdeveloped (albeit some on purpose) leaving the the audience detached from both Baby, and Deborah's (Lily James') plight. 
