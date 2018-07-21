@@ -12,7 +12,7 @@ description: "Procure por sua director favorita."
     {% else %}
       {% assign name = director.name %}
     {% endif %}
-    <a href="#{{ director.name | slugify }}">{{ staring.name }}</a>
+    <a href="#{{ director.name | slugify }}">{{ director.name }}</a>
   {% endfor %}
 </div>
 
@@ -22,7 +22,7 @@ description: "Procure por sua director favorita."
   {% if director.name == "" %}
     {% assign name = "Anonymous" %}
   {% else %}
-    {% assign name = director %}
+    {% assign name = director.name %}
   {% endif %}
   <div class="var-title" id="{{ name | slugify }}">{{ name | debug }}</div>
   <div class="var-pic-wrapper" style="background: url('https://res.cloudinary.com/how-dare-you-review/image/upload/ar_1:1,c_fill,g_auto/{{ name | slugify }}.jpg');">-</div>
