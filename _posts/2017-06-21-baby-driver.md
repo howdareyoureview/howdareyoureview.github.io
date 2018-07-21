@@ -4,8 +4,6 @@ title: "Baby Driver"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529865791/baby-driver.png'
 description: Despite it's stylistic merit, Baby Driver is more like a really long, cool music video than a great movie.
 category: 'action'
-tags:
-- sequel
 twitter_text: Despite it's stylistic merit, Baby Driver is more like a really long, cool music video than a great movie.
 introduction: Despite it's stylistic merit, Baby Driver is more like a really long, cool music video than a great movie.
 author: Zach Saul

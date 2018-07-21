@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "Isle of Dogs"
-date: 2017-04-09 23:04:08
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_scale,h_399,w_760/v1528670982/isle_of_dogs.jpg'
 description: Isle of Dogs is a beautiful, funny, and somewhat underwritten film.  
 category: 'animated'
-tags: 
-- animated
-- Wes Anderson
-- indie
+staring: 
+- Bryan Cranston
+- Edward Norton
+- Bill Murray
+- Jeff Goldblum
+- Greta Gerwig
+- Scarlett Johansson
 twitter_text: Isle of Dogs is a beautiful, funny, and somewhat underwritten film.  
 introduction: Isle of Dogs is a beautiful, funny, and somewhat underwritten film.
 score: 91

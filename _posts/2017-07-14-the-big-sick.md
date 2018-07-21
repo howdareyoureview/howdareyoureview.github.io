@@ -4,10 +4,8 @@ title: "The Big Sick"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529864848/the-big-sick.jpg'
 description: There's nothing groundbreaking about this movie, but it's heartfelt and hilarious.
 category: 'rom-com'
-tags:
-- sequel
-twitter_text: There's nothing groundbreaking about this movie, but it's heartfelt and hilarious.
-introduction: There's nothing groundbreaking about this movie, but it's heartfelt and hilarious.
+twitter_text: There's nothing groundbreaking about The Big Sick, but it's heartfelt and hilarious.
+introduction: There's nothing groundbreaking about The Big Sick, but it's heartfelt and hilarious.
 author: Zach Saul
 score: 90
 director: Michael Showalter
