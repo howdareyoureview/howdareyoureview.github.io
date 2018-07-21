@@ -4,8 +4,6 @@ title: "War for the Planet of the Apes"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529864006/planet-of-the-apes.jpg'
 description: In a million years I never thought anyone could make me care about CGI monkeys the way Matt Reeves and Mark Bomback did for two hours.
 category: 'war'
-tags:
-- sequel
 twitter_text: In a million years I never thought anyone could make me care about CGI monkeys the way Matt Reeves and Mark Bomback did for two hours.
 introduction: In a million years I never thought anyone could make me care about CGI monkeys the way Matt Reeves and Mark Bomback did for two hours.
 author: Zach Saul
