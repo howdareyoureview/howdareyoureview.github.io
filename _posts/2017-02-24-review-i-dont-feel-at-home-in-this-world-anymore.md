@@ -4,13 +4,10 @@ title: "I Don't Feel at Home in This World Anymore"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529170806/i-dont-feel-at-home.jpg'
 description: One of the most dinstinct and poignant narrative voices of the past few years. Sadly at the end it doesn't amount to more than a revenge flick.         
 category: 'revenge'
-tags: 
-- drama
-- Macon Blair
-- netflix
 staring:
 - Melanie Lynskey
 - Elijah Wood
+studio: Netflix
 twitter_text: One of the most dinstinct and poignant narrative voices of the past few years. Sadly at the end it doesn't amount to more than a revenge flick.
 introduction: One of the most dinstinct and poignant narrative voices of the past few years. Sadly at the end it doesn't amount to more than a revenge flick.
 author: Zach Saul

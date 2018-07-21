@@ -3,9 +3,7 @@ layout: post
 title: "Spiderman Homecoming"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529864354/spiderman-homecoming.jpg'
 description: This Spiderman is more fun than the Andrew Garfield movies, and takes itself less seriously than the Toby McGuire movies.
-category: 'war'
-tags:
-- sequel
+category: 'superhero'
 twitter_text: This Spiderman is more fun than the Andrew Garfield movies, and takes itself less seriously than the Toby McGuire movies.
 introduction: This Spiderman is more fun than the Andrew Garfield movies, and takes itself less seriously than the Toby McGuire movies.
 author: Zach Saul
