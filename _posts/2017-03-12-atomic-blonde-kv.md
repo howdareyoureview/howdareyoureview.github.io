@@ -4,8 +4,6 @@ title: "Atomic Blonde"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529786739/atomic-blonde-2.jpg'
 description: This stylish movie was jam packed with great fight scenes and a surprising amount of eye candy.
 category: 'action'
-tags:
-- revenge
 twitter_text: This stylish movie was jam packed with great fight scenes and a surprising amount of eye candy.
 introduction: This stylish movie was jam packed with great fight scenes and a surprising amount of eye candy.
 author: Kleon Van

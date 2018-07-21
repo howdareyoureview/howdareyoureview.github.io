@@ -4,8 +4,6 @@ title: "Atomic Blonde"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529786750/atomic-blonde.jpg'
 description: Stylish fight scenes, and Charlize Theron dressed in scantily clad outfits. Check and check.
 category: 'action'
-tags:
-- revenge
 twitter_text: Stylish fight scenes, and Charlize Theron dressed in scantily clad outfits. Check and check.
 introduction: Stylish fight scenes, and Charlize Theron dressed in scantily clad outfits. Check and check.
 author: Zach Saul
