@@ -6,7 +6,7 @@ description: "Procure por sua star favorita."
 ---
 <div class="var-list">
   {% assign stars = site.posts | group_by: 'staring' | sort: "name" %}
-  {% for staring in stars %}
+  {% for name in stars %}
     {% if name == "" %}
       {% assign name = "Anonymous" %}
     {% else %}
