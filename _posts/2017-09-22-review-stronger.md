@@ -4,11 +4,9 @@ title: "Stronger"
 image: 'http://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529127882/stronger.jpg'
 description: If only all melodramas worked as well as Stronger.
 category: 'tragedy'
-tags:
+staring:
 - Jake Gyllenhaal
 - Tatiana Maslany
-- drama
-- tragedy
 twitter_text: If only all melodramas worked as well as Stronger.    
 introduction: If only all melodramas worked as well as Stronger.
 author: Kleon Van

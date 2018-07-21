@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Downsizing"
+date: 2017-12-22 23:04:08
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528848280/downsizing.jpg'
 description: What a waste of a great premise. I could have done without the tiny gigolos.  
 category: 'Comedy'
-tags:
+staring:
 - Matt Damon
 - Kristen Wig
-- comedy
 introduction: What a waste of a great premise. I could have done without the tiny gigolos.
 score: 51
 author: Zach Saul

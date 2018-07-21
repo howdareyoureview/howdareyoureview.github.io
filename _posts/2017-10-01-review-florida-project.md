@@ -1,19 +1,15 @@
 ---
 layout: post
-title: "Review: The Florida Project | 70 C-"
+title: "The Florida Project"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529037317/florida.jpg'
 description: Cute, complicated, and deeply unpleasant. I both admire the Florida Project and at the same time never want to see it again.
 category: 'drama'
-tags:
-- drama
+staring:
 - Willem Dafoe
-- indie
-- drama
-- realist
-- Sean Baker
 twitter_text: Cute, complicated, and deeply unpleasant. I both admire the Florida Project and at the same time never want to see it again.   
 introduction: Cute, complicated, and deeply unpleasant. I both admire the Florida Project and at the same time never want to see it again.
 score: 70
+director: Sean Baker
 author: Zach Saul
 ---
 
