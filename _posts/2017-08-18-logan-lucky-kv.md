@@ -10,13 +10,13 @@ author: Kleon Van
 score: 85
 director: Steven Soderbergh
 written-by: Rebecca Blunt
-studio: Trans-Radial Pictures
 staring: 
 - Channing Tatum
 - Jim O'Heir
 - Adam Driver
 - Katie Holmes
 - Riley Keough
+studio: Trans-Radial Pictures
 ---
 
 *Logan Lucky*, staring Channing Tatum, Adam Driver, Daniel Craig, and others is a great action/comedy heist film that keeps you interested throughout the whole ordeal. I thought it was a solid film with a fantastic cast. Some parts were slow but you never felt too bored as the plot moved quickly.

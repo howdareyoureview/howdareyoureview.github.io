@@ -10,13 +10,13 @@ author: Zach Saul
 score: 89
 director: Steven Soderbergh
 written-by: Rebecca Blunt
-studio: Trans-Radial Pictures
 staring: 
 - Channing Tatum
 - Jim O'Heir
 - Adam Driver
 - Katie Holmes
 - Riley Keough
+studio: Trans-Radial Pictures
 ---
 
 I, like most who saw this movie; stumbled upon it by accident. It's curious to me given it's all star cast, and Seth Mcfarlan's involvement it wasn't promoted more aggressively. Boy am I glad I found it though because I haven't had that much fun at the movies in at least a year. There's an energy and tone to *Logan Lucky* that reminds me of movies like Back to the Future - a movie that accepts it's place as an action adventure film, and leans in without reservation.
