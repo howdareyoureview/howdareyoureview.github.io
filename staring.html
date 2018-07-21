@@ -7,10 +7,10 @@ description: "Procure por sua star favorita."
 <div class="var-list">
   {% assign stars = site.posts | group_by: 'staring' | sort: "name" %}
   {% for staring in stars %}
-    {% if staring.name == "" %}
+    {% if name == "" %}
       {% assign name = "Anonymous" %}
     {% else %}
-      {% assign name = staring.name %}
+      {% assign name = name %}
     {% endif %}
     <a href="#{{ name | slugify }}">{{ name }}</a>
   {% endfor %}
@@ -19,12 +19,12 @@ description: "Procure por sua star favorita."
 {% for staring in stars %}
 <div class="var-wrapper">
 	<div class="var-title-wrapper">
-  {% if staring.name == "" %}
-    {% assign staring.name = "Anonymous" %}
+  {% if name == "" %}
+    {% assign name = "Anonymous" %}
   {% else %}
-    {% assign staring.name = staring.name %}
+    {% assign name = name %}
   {% endif %}
-  <div class="var-title" id="{{ name | slugify }}">{{ staring.name | debug }}</div>
+  <div class="var-title" id="{{ name | slugify }}">{{ name | debug }}</div>
   <div class="var-pic-wrapper" style="background: url('https://res.cloudinary.com/how-dare-you-review/image/upload/ar_1:1,c_fill,g_auto/{{ name | slugify }}.jpg');">-</div>
   
 </div>
