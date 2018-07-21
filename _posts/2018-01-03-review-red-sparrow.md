@@ -4,10 +4,8 @@ title: "Red Sparrow"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528674492/red-sparrow1.jpg'
 description: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness.
 category: 'thriller'
-tags: 
+staring: 
 - Jenifer Lawrence
-- thriller
-- spy movies
 twitter_text: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness.
 introduction: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness.
 score: 79

@@ -4,11 +4,8 @@ title: "Hostiles"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528675258/hero_Hostiles-2017-6.jpg'
 description: Hostiles is deeply unplesant on purpose, but I'm unsure what that purpose is...
 category: 'historical'
-tags: 
-- history
-- drama
+staring:
 - Christian Bale
-- action
 twitter_text: Hostiles is deeply unplesant on purpose, but I'm unsure what that purpose is...
 introduction: Hostiles is deeply unplesant on purpose, but I'm unsure what that purpose is...
 score: 63

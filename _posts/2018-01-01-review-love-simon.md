@@ -4,10 +4,8 @@ title: "Love, Simon"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528673347/love-simon.jpg'
 description: Love, Simon deserves credit for breaking new ground, but that about all it deserves credit for. 
 category: 'rom-com'
-tags: 
-- young adult
+staring: 
 - Katherine Langford
-- rom-com
 twitter_text: Love, Simon deserves credit for breaking new ground, but that about all it deserves credit for. 
 introduction: Love, Simon deserves credit for breaking new ground, but that about all it deserves credit for.
 score: 63
