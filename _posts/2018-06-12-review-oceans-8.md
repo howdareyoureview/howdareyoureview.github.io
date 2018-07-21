@@ -4,9 +4,7 @@ title: "Oceans 8"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528847711/Oceans-8-poster.png'
 description: For about fifteen minutes it carries the energy of the original movies - but it devolves quickly into  irrelevance.     
 category: 'Crime'
-tags: 
-- Crime
-- Action
+staring: 
 - Sandra Bullock
 - Rihanna
 - Anne Hathaway

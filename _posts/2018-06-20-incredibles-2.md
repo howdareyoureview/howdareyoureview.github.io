@@ -4,8 +4,6 @@ title: "The Incredibles 2"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529473279/incredibles2.png'
 description: Overall, the Incredibles 2 sequel lacks the sharpness of the original, and the writing as a whole just doesn’t compare.
 category: 'animated'
-tags:
-- sequel
 twitter_text: Overall, the Incredibles 2 sequel lacks the sharpness of the original, and the writing as a whole just doesn’t compare.
 introduction: Overall, the Incredibles 2 sequel lacks the sharpness of the original, and the writing as a whole just doesn’t compare.
 author: Zach Saul

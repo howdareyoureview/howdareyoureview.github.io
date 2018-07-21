@@ -5,9 +5,7 @@ image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399
 description: First Reformed is egregiously mis-marketed, and badly underwritten. Religious symbols aren't enough to save this sleepy script.
 category: 'drama'
 tags:
-- drama
 - ethan hawke
-- christian
 twitter_text: First Reformed is egregiously mis-marketed, and badly underwritten. Religious symbols aren't enough to save this sleepy script.
 introduction: First Reformed is egregiously mis-marketed, and badly underwritten. Religious symbols aren't enough to save this sleepy script.
 score: 59
