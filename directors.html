@@ -12,7 +12,7 @@ description: "Procure por sua director favorita."
     {% else %}
       {% assign name = director.name %}
     {% endif %}
-    <a href="#{{ name | slugify }}">{{ name }}</a>
+    <a href="#{{ staring.name | slugify }}">{{ staring.name }}</a>
   {% endfor %}
 </div>
 
