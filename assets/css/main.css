@@ -35,10 +35,9 @@ table.movie-credits tbody tr {border-bottom: solid thin #cdcdcd;}
 table.movie-credits tbody tr:first-child {background: #eee; font-weight: lighter; padding: 2%;}
 tr.odd {background: #ddd;}
 /**DIRECTOR PAGE**/
-.director-title-wrapper {margin: 1.563rem auto;} 
-.details-pic-wrapper {background-size: 150px 150px!important; height: 150px; width: 150px; border-radius: 50%; margin: 1.463rem auto; color: transparent;} 
-.director-title {text-align: center; font-weight: 100; font-size:1.5rem;color:#555;} 
-.director-wrapper {min-height: 100vh; padding-top: 7.5vh;}
-
-.director-title:before {display: block; content: " "; margin-top: 20vh; height: 20vh; visibility: hidden; pointer-events: none;} 
+.var-title-wrapper {margin: 1.563rem auto;} 
+.var-pic-wrapper {background-size: 150px 150px!important; height: 150px; width: 150px; border-radius: 50%; margin: 1.463rem auto; color: transparent;} 
+.var-title {text-align: center; font-weight: 100; font-size:1.5rem;color:#555;} 
+.var-wrapper {min-height: 100vh; padding-top: 7.5vh;}
+.var-title:before {display: block; content: " "; margin-top: 20vh; height: 20vh; visibility: hidden; pointer-events: none;} 
   

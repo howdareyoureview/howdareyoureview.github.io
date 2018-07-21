@@ -42,8 +42,8 @@
                         <td>{{ page.written-by }}</td>
                     </tr>
                     <tr classs='odd'><th>Staring:</th>
-                        {% for staring in page.staring %} 
-                        <td>|  {{ staring }}</td>
+                        {% for staring in page.staring %}
+                        <td><a href="{{ site.baseurl }}/staring/#{{page.staring | slugify }}">{{ page.staring }}</a></td>
                         {% endfor %}
                     </tr>
                 </table>

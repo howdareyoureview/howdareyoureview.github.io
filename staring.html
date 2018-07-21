@@ -1,35 +1,35 @@
 ---
 layout: minimal
-title: "#Directors"
-permalink: /directors/index.html
-description: "Procure por sua director favorita."
+title: "#Staring"
+permalink: /staring/index.html
+description: "Procure por sua star favorita."
 ---
 <div class="var-list">
-  {% assign directors = site.posts | group_by: 'director' | sort: "name" %}
-  {% for director in directors %}
-    {% if director.name == "" %}
+  {% assign star = site.posts | group_by: 'staring' | sort: "name" %}
+  {% for staring in star %}
+    {% if staring.name == "" %}
       {% assign name = "Anonymous" %}
     {% else %}
-      {% assign name = director.name %}
+      {% assign name = staring.name %}
     {% endif %}
     <a href="#{{ name | slugify }}">{{ name }}</a>
   {% endfor %}
 </div>
 
-{% for director in directors %}
+{% for staring in star %}
 <div class="var-wrapper">
 	<div class="var-title-wrapper">
-  {% if director.name == "" %}
+  {% if staring.name == "" %}
     {% assign name = "Anonymous" %}
   {% else %}
-    {% assign name = director.name %}
+    {% assign name = staring.name %}
   {% endif %}
   <div class="var-title" id="{{ name | slugify }}">{{ name | debug }}</div>
   <div class="var-pic-wrapper" style="background: url('https://res.cloudinary.com/how-dare-you-review/image/upload/ar_1:1,c_fill,g_auto/{{ name | slugify }}.jpg');">-</div>
   
 </div>
     <ul class="post-list">
-      {% assign pages_list = director.items %}
+      {% assign pages_list = staring.items %}
       {% for post in pages_list reversed %}
         <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%m/%d/%Y" }}</time></a></li>
       {% endfor %}
