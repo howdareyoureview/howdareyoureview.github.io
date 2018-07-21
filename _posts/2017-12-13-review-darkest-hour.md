@@ -4,15 +4,13 @@ title: "The Darkest Hour"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528828268/the-darkest-hour-gary-oldman.jpg'
 description: Gary Oldman's transformation is remarkable, and the movie around him mostly holds up. 
 category: 'biopic'
-tags: 
-- historical
-- biopic
+staring: 
 - Gary Oldman
-- WWII
 twitter_text: Gary Oldman's transformation is remarkable, and the movie around him mostly holds up. 
 introduction: Gary Oldman's transformation is remarkable, and the movie around him mostly holds up.
 score: 81
-author: Zach Saul 
+author: Zach Saul
+director: Joe Wright 
 ---
 The Darkest Hour deserves a lot of credit for the way it creates intrigue and drama during its dialogue scenes, and for making Gary Oldman look like the human version of the "White Rabbit" from Alice in Wonderland. The Darkest Hour invites us to spend two hours in the political war-rooms where British strategists were deciding whether or not to fold to the Nazis. Director Joe Wright's interpretation is particularly enjoyable because Oldman's Churchill is never boisterous like most politicians, instead, he's resolute and unwavering. I loved Wright's insertion of Elizabeth Layton (Churchill's typist) as I think it really helps guide the audience through the more technical and political sequences. Additionally having to stare into the face of someone from "the other half"
 

@@ -4,12 +4,10 @@ title: "Call Me by Your Name"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528850686/call-me-by-your-name.jpg'
 description: Call Me by Your Name isn't just pretty, it's the type of pretty that lulls you into a trace as it runs.     
 category: 'romance'
-tags: 
-- oscar nominee
+staring: 
 - Timothee Chalamet
 - Armie Hammer
 - Luca Guadagnino
-- romance
 twitter_text: Call Me by Your Name isn't just pretty, it's the type of pretty that lulls you into a trace as it runs. 
 introduction: Call Me by Your Name isn't just pretty, it's the type of pretty that lulls you into a trace as it runs. 
 score: 88
