@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "Logan Lucky"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_368,w_700/v1529785531/17-logan-lucky-2.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_368,w_700/v1529785531/logan-lucky-2.jpg'
 description: A great action/comedy heist film that keeps you interested throughout the whole ordeal.
 category: 'crime'
-tags:
-- heist
 twitter_text: A great action/comedy heist film that keeps you interested throughout the whole ordeal.
 introduction: A great action/comedy heist film that keeps you interested throughout the whole ordeal.
 author: Kleon Van

@@ -4,8 +4,6 @@ title: "Logan Lucky"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529785849/logan-lucky.jpg'
 description: Logan Lucky is the funniest movie I've seen this year, and it's brimming with energy and self-parody.   
 category: 'crime'
-tags:
-- heist
 twitter_text: Logan Lucky is the funniest movie I've seen this year, and it's brimming with energy and self-parody.
 introduction: Logan Lucky is the funniest movie I've seen this year, and it's brimming with energy and self-parody.
 author: Zach Saul
