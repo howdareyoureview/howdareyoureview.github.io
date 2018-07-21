@@ -4,10 +4,7 @@ title: "Thor Ragnarok"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528953376/Thor-Ragnarok-Revengers.jpg'
 description: Funny, fast paced and well-rounded, Ragnarok is one of the stronger Marvel installments of the past few years.      
 category: 'superhero'
-tags:
-- superhero
-- marvel
-- Thor
+staring:
 - Chris Hemsworth
 - Natalie Portman
 - Tom Hiddleston
