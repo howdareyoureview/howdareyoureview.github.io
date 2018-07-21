@@ -4,14 +4,14 @@ title: "The Foreigner"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529129309/foreigner.jpg'
 description: Chan's action scenes deliver on the promises the trailer makes - sadly the movie around him didn't.  
 category: 'Action'
-tags: 
+staring: 
 - Jackie Chan
-- Action
 - Pierce Brosnan
 twitter_text: Chan's action scenes deliver on the promises the trailer makes - sadly the movie around him didn't.   
 introduction: Chan's action scenes deliver on the promises the trailer makes - sadly the movie around him didn't.
 score: 69
-author: Zach Saul  
+author: Zach Saul
+director: Martin Campbell  
 ---
 
 For those unable to sleep and worrying - Jackie Chan is alive and well. In *The Foreigner* the kicks and punches look just as awesome as they did in Rush Hour 20 years ago. The Foreigner tells the story of an Irish Terrorist attack against a British bank and the icy tensions surrounding the relationship between Irish and British politicians.  Then we have Quan (played by Jackie Chan) a relentless grieving father who's daughter was killed in the attacks and will stop at nothing to avenge her attacks.

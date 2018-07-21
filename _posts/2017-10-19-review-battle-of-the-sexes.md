@@ -4,8 +4,6 @@ title: "Battle of the Sexes"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529167993/battle-of-the-sexes.jpg'
 description: Emma Stone is brilliant as Billie Jean, if only the movie around her was a little more focused.      
 category: 'sports'
-tags:
-- Billie Jean King
 starring:
 - Emma Stone
 - Steve Carrell
@@ -13,10 +11,8 @@ starring:
 - Sarah Silverman
 - Elisabeth Shue
 - Billie Jean King
-- sports
 twitter_text: Emma Stone is brilliant as Billie Jean, if only the movie around her was a little more focused.
 introduction: Emma Stone is brilliant as Billie Jean, if only the movie around her was a little more focused.
-author: Zach Saul
 score: 83
 author: Zach Saul
 director: Valerie Faris 

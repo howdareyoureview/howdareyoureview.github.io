@@ -4,12 +4,9 @@ title: "Lady Bird"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528952882/ladybird.jpg'
 description: Greta Gerwig is just as brilliant behind the camera as she is in front of it. The jokes feel timeless, and the excanges stick with you.      
 category: 'dramedy'
-tags: 
-- Greta Gerwig
+staring: 
 - Saoirse Ronan
 - Timothée Chalamet
-- indie
-- sacramento
 twitter_text: Greta Gerwig is just as brilliant behind the camera as she is in front of it. The jokes feel timeless, and the excanges stick with you.
 introduction: Greta Gerwig is just as brilliant behind the camera as she is in front of it. The jokes feel timeless, and the excanges stick with you.
 author: Zach Saul
