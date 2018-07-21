@@ -4,11 +4,9 @@ title: "Tully"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528782508/tully_01824_r1517524436_wide-dbae51bc4f8fe124cec7554e959754f0704c70d9-s900-c85.jpg'
 description: Tully is funnier, weirder, and more resonant than you'd expect. 
 category: 'drama'
-tags: 
-- drama
+staring: 
 - Charlize Theron
 - Mackenzie Davis
-- family
 twitter_text: Tully is funnier, weirder, and more resonant than you'd expect. 
 introduction: Tully is funnier, weirder, and more resonant than you'd expect.
 score: 90

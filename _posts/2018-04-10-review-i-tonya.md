@@ -4,11 +4,8 @@ title: "I, Tonya"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528782893/530126-neon.jpg'
 description: Why can't it just be about my skating? is a question for the ages. 
 category: 'biopic'
-tags: 
-- drama
-- biopic
+staring: 
 - Margot Robbie
-- sports
 twitter_text: Why can't it just be about my skating? is a question for the ages. 
 introduction: Why can't it just be about my skating? is a question for the ages.
 score: 87
