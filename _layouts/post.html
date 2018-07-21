@@ -43,7 +43,7 @@
                     </tr>
                     <tr classs='odd'><th>Staring:</th>
                         {% for staring in page.staring %}
-                        <td><a href="{{ site.baseurl }}/staring/#{{page.staring | slugify }}">{{ page.staring }}</a></td>
+                        <td><a href="{{ site.baseurl }}/staring/#{{ staring | slugify }}">{{ staring }}</a></td>
                         {% endfor %}
                     </tr>
                 </table>
