@@ -2,14 +2,14 @@
 layout: post
 title: "Novitiate"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528918416/novitiate.jpg'
-description: Novitiate is sensitive, thought-provoking, and intimate and lends both skepticism and admiration for the Catholic Church.
+description: Novitiate is sensitive, thought-provoking, and intimate. It smartly navigates both skepticism and admiration for the Catholic Church.
 category: 'drama'
 staring:
 - Maggie Betts
 - Melissa Leo
 - Margaret Qualley
-twitter_text: Novitiate is sensitive, thought-provoking, and intimate and lends both skepticism and admiration for the Catholic Church.
-introduction: Novitiate is sensitive, thought-provoking, and intimate and lends both skepticism and admiration for the Catholic Church.
+twitter_text: Novitiate is sensitive, thought-provoking, and intimate. It smartly navigates both skepticism and admiration for the Catholic Church.
+introduction: Novitiate is sensitive, thought-provoking, and intimate. It smartly navigates both skepticism and admiration for the Catholic Church.
 score: 88
 author: Zach Saul
 director: Maggie Betts
