@@ -4,10 +4,6 @@ title: "Coco"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529789201/coco.jpg'
 description: Coco is gorgeous to look at, and demonstrates Pixar's ability to immerse you in a foreign universe.      
 category: 'animated'
-tags:
-- animated
-- Pixar
-- Lee Unkrich
 twitter_text: Coco is gorgeous to look at, and demonstrates Pixar's ability to immerse you in a foreign universe.
 introduction: Coco is gorgeous to look at, and demonstrates Pixar's ability to immerse you in a foreign universe.
 score: 87
