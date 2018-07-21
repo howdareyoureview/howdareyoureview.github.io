@@ -12,6 +12,7 @@ score: 87
 author: Zach Saul 
 director: 
 - Craig Gillespie
+- test
 
 ---
 At its core, I Tonya is a movie about classism, and to what extent "nurture" can explain someone's poor behavior. Allison Janney and Margot Robbie have an excellent chemistry together and their wry wit works well throughout the movie. What makes I, Tonya work isn't it's shattering of the fourth wall or its flashy editing; it's that its characters are riddled with moral ambiguity, and the audience teeters between loving at hating them. 
