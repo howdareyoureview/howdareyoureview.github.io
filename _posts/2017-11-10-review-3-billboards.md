@@ -4,8 +4,6 @@ title: "Three Billboards Outside Ebbing, Missouri"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528918796/billbs.jpg'
 description: 3 Billboards is a morally ambiguous masterpiece, and Frances McDormand's performance is legendary.    
 category: 'drama'
-tags: 
-- drama
 staring:
 - Frances McDormand
 - Woody Harrelson
