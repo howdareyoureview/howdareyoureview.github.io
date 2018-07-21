@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Hereditary"
-tags:
-- sequel
 category: 'scary'
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529979103/hereditary.jpg'
 description: Hereditary isn’t about what you think it’s about, and it shatters your expectation over and over again.
