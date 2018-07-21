@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "A Quiet Place"
-date: 2017-08-07 23:04:08
+date: 2018-04-06 23:04:08
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528671134/hero_A-Quiet-Place-2018.jpg'
 description: A Quiet Place is really impressive, and built around brilliant sound-design. 
 category: 'scary'
-tags: 
-- scary
+staring 
 - Emily Blunt
 - Jon Krazinski
-- aliens
 twitter_text: A Quiet Place is really impressive, and built around brilliant sound-design.
 introduction: A Quiet Place is really impressive, and built around brilliant sound-design.
 score: 92
