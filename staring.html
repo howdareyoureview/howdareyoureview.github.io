@@ -5,12 +5,12 @@ permalink: /staring/index.html
 description: "Procure por sua star favorita."
 ---
 <div class="var-list">
-  {% assign star = site.posts | group_by: 'staring' | sort: "staring" %}
+  {% assign star = site.posts | group_by: 'staring' | sort: "name" %}
   {% for staring in star %}
-    {% if staring.name == "" %}
+    {% if name == "" %}
       {% assign name = "Anonymous" %}
     {% else %}
-      {% assign name = staring.name %}
+      {% assign name = name %}
     {% endif %}
     <a href="#{{ name | slugify }}">{{ name }}</a>
   {% endfor %}
