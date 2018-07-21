@@ -4,13 +4,10 @@ title: "Bladerunner: 2049"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529169632/blade-runnner.jpg'
 description: Breathtakingly beautiful to look at, sensative, and more focussed than the original - Bladerunner 2049 is my favorite movie of 2017.      
 category: 'sci-fi'
-tags: 
-- sci-fi
+staring: 
 - Ryan Gosling
 - Ana de Armas
 - Harrison Ford
-- Denis Villeneuve
-- clones
 twitter_text: Breathtakingly beautiful to look at, sensative, and more focussed than the original - Bladerunner 2049 is my favorite movie of 2017.
 introduction: Breathtakingly beautiful to look at, sensative, and more focussed than the original - Bladerunner 2049 is my favorite movie of 2017.
 author: Zach Saul
