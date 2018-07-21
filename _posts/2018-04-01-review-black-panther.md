@@ -4,9 +4,8 @@ title: "Black Panther"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528693032/black-panther.jpg'
 description: Cool stunts, great visual style, and a fantastic cast make Black Panther a lot of fun to watch. 
 category: 'superhero'
-tags: 
-- marvel
-- comic book
+staring: 
+- Chadwick Boseman
 twitter_text: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness.
 introduction: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness. 
 score: 80

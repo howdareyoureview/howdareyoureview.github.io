@@ -4,11 +4,10 @@ title: "Ready, Player One"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_scale,h_399,w_760/v1528671407/ready-player-one-11.jpg'
 description: If Jackson Pollock were a 21st century sci-fi film, it would undoubtedly be Ready Player One.   
 category: 'sci-fi'
-tags:
-- sci-fi
-- action
-- adventure
-twitter_text: If Jackson Pollock were a 21st century sci-fi film, it would undoubtedly be Ready Player One.
+staring:
+- Tye Sheridan
+- Olivia Cooke
+twitter_text:  If Jackson Pollock were a 21st century sci-fi film, it would undoubtedly be Ready Player One.
 introduction: If Jackson Pollock were a 21st century sci-fi film, it would undoubtedly be Ready Player One.
 score: 74
 author: Zach Saul

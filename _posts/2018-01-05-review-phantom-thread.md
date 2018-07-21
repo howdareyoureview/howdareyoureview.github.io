@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Review: Phantom Thread | 90 A-"
+title: "Phantom Thread"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528698871/phantom-thread.jpg'
 description: Vibrant Characters, a gorgeous score, and another addition to Paul Thomas Anderson's Mantle.
 category: 'Drama'
-tags: 
+staring: 
 - Daniel Day-Lewis
-- Paul Thomas Anderson
 - Vicki Krieps
-- Fashion
 twitter_text: Vibrant Characters, a gorgeous score, and another addition to Paul Thomas Anderson's Mantle.
-introduction: Vibrant Characters, a gorgeous score, and another addition to Paul Thomas Anderson's Mantle. 
+introduction: Vibrant Characters, a gorgeous score, and another addition to Paul Thomas Anderson's Mantle.
+score: 92
+author: Zach Saul 
 ---
 Phantom Thread is a gorgeous, uncomfortable and surreal experience. There was a spirited debate amongst my friends about who was more impressive: Daniel Day-Lewis or Vicki Kreips, and that speaks to how excellent both performances were. Paul Thomas Anderson so skilfully creates "anti-protagonists" in his films - and Reynolds is no exception. He's equal parts creepy and gentle - and it leaves us endlessly curious about what exactly makes Reynolds tick.
 

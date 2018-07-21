@@ -4,12 +4,8 @@ title: "Unsane"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528958645/unsane.jpg'
 description: If you weren't terrified of Stalkers and Insurance companies before... Unsane will scare you straight.       
 category: 'psych-thriller'
-tags: 
+staring: 
 - Claire Foy
-- stalker
-- psych-thriller
-- thriller
-- psychology
 twitter_text: If you weren't terrified of Stalkers and Insurance companies before... Unsane will scare you straight.  
 introduction: If you weren't terrified of Stalkers and Insurance companies before... Unsane will scare you straight.
 author: Zach Saul
