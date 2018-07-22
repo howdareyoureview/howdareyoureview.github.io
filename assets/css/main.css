@@ -44,3 +44,5 @@ table.movie-credits td a:hover {background: #bbb;}
 .var-wrapper {min-height: 100vh; padding-top: 7.5vh;}
 .var-title:before {display: block; content: " "; margin-top: 20vh; height: 20vh; visibility: hidden; pointer-events: none;} 
   
+/**Homepage Intro**/  
+#intro-banner {height: 45vh; background: url('https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,w_1900/v1532224695/black-static.png');}
