@@ -48,4 +48,4 @@ table.movie-credits td a:hover {background: #bbb;}
 #intro-banner {height: 45vh; background-image: url('https://res.cloudinary.com/how-dare-you-review/image/upload/c_scale,w_1900/v1532224695/black-static.png'); background-image-size: 100% 100%;}
 #banner-wrapper {position: relative; top: 50%; left: 50%; transform: translate(-50%, -50%);}
 #banner-wrapper p {font-size: 4rem; color: #fff; font-family: helvetica; display: inline-block;}
-#banner-wrapper img {max-height: 150px; height: 10vh; padding-top: 40px;}
+#banner-wrapper img {max-height: 150px; height: 10vh; display: inline-block;}
