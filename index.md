@@ -1,7 +1,12 @@
 ---
 layout: main
 ---
-<div id="intro-banner"></div>
+<div id="intro-banner">
+    <div id="banner-wrapper">
+        <p>How Dare You.</p>
+        <svg id="intro-banner-logo"src="https://res.cloudinary.com/how-dare-you-review/image/upload/v1532224637/review-logo.svg">
+    </div>
+</div>
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
