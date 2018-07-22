@@ -5,7 +5,7 @@ layout: main
     <div id="banner-wrapper">
         <p>How dare you.</p>
         <img id="intro-banner-logo" src="https://res.cloudinary.com/how-dare-you-review/image/upload/v1532224637/review-logo.svg"><br>
-        opinions | reviews | rants
+        <p style="color: #666; font-size: 1.25rem;">opinions | reviews | rants</p>
     </div>
 </div>
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">

@@ -45,7 +45,7 @@ table.movie-credits td a:hover {background: #bbb;}
 .var-title:before {display: block; content: " "; margin-top: 20vh; height: 20vh; visibility: hidden; pointer-events: none;} 
   
 /**Homepage Intro**/  
-#intro-banner {height: 45vh; background-image: url('https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,w_1900/v1532224695/black-static.png'); background-image-size: 100% 100%;}
+#intro-banner {height: 45vh; background-image: url('https://res.cloudinary.com/how-dare-you-review/image/upload/c_scale,w_2000/v1532226905/Asset_3.png'); background-image-size: 100% 100%;}
 #banner-wrapper {position: relative; top: 40%; text-align: center;}
 #banner-wrapper p {font-size: 4rem; color: #fff; font-family: helvetica; display: inline-block;}
 #banner-wrapper img {max-height: 150px; height: 10vh; display: inline-block; margin-left: 10px;}
