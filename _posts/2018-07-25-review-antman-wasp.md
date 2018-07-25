@@ -16,7 +16,7 @@ writer:
 - Erik Sommers
 twitter_text: Novitiate is sensitive, thought-provoking, and intimate and lends both skepticism and admiration for the Catholic Church.
 introduction: Novitiate is sensitive, thought-provoking, and intimate and lends both skepticism and admiration for the Catholic Church.
-score: 
+score: 83 
 author: Zach Saul
 ---
 
