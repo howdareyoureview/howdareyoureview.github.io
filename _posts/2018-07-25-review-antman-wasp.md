@@ -2,7 +2,7 @@
 layout: post
 title: "Ant Man and the Wasp"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528918416/ant-man-wasp.jpg'
-description:
+description: It’s not a movie that attempts much, but Antman is good, clean, uncomplicated fun.
 category: 'superhero'
 staring:
 - Paul Rudd
@@ -14,8 +14,8 @@ director: Peyton Reed
 writer: 
 - Chris McKenna
 - Erik Sommers
-twitter_text: Novitiate is sensitive, thought-provoking, and intimate and lends both skepticism and admiration for the Catholic Church.
-introduction: Novitiate is sensitive, thought-provoking, and intimate and lends both skepticism and admiration for the Catholic Church.
+twitter_text: It’s not a movie that attempts much, but Antman is good, clean, uncomplicated fun.
+introduction: It’s not a movie that attempts much, but Antman is good, clean, uncomplicated fun.
 score: 83 
 author: Zach Saul
 ---
