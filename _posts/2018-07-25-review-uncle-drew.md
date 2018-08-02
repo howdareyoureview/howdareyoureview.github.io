@@ -2,7 +2,7 @@
 layout: post
 title: "Uncle Drew"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1531882527/uncle-drew.jpg'
-description: Uncle Drew just barely meets the threshold of what should be allowed to be classified as a movie.
+description: I'm sure it was fun to make, I just wish it was more fun to watch.
 category: 'sports'
 staring:
 - Kyrie Irving
@@ -11,8 +11,8 @@ staring:
 - Shaquille O'Neal
 director: Charles Stone III
 writer: Jay Longino
-twitter_text: Uncle Drew just barely meets the threshold of what should be allowed to be classified as a movie.
-introduction: Uncle Drew just barely meets the threshold of what should be allowed to be classified as a movie.
+twitter_text: I'm sure it was fun to make, I just wish it was more fun to watch.
+introduction: I'm sure it was fun to make, I just wish it was more fun to watch.
 score: 55
 author: Zach Saul
 ---
@@ -23,6 +23,6 @@ Haddish, and Kroll being the seasoned comedians on the cast, did their part to l
 
 I thought the sports scenes also lacked a lot of luster. It’s a tough task because those sequences are inherently predictable, but too much of the action just didn’t look good. It’s difficult for me to believe NBA players of this caliber can't concoct plays, and moves to show in the movie that were a little more creative then layups and crossovers. Part of what made *Uncle Drew*’s commercials so much fun is that they were unexpected, and set in what felt like the gritty playground. Even though the movie is set there, I never felt for one millisecond like the Harlem shown in this version was a place anyone had ever played pickup basketball.  
 
-**The Good: **You get to watch 5 NBA legends dressed up as 80-year old men dunking over Aaron Gordon and Nick Kroll, and that’s something.  
+**The Good:** You get to watch 5 NBA legends dressed up as 80-year old men dunking over Aaron Gordon and Nick Kroll, and that’s something.  
 
-**The Bad: **The *Uncle Drew* movie was a pretty shameless cash grab, and one I blame Pepsi for, not the players. Maybe they were in a rush filming this because of Kyrie’s schedule, but it definitely shows. This movie also needed the energy of a Chris Hart or a Dave Chapelle, and Lil Rex Howery (Dax) simply wasn’t able to carry the load as the movie’s “protagonist”.    
+**The Bad:** The *Uncle Drew* movie was a pretty shameless cash grab, and one I blame Pepsi for, not the players. Maybe they were in a rush filming this because of Kyrie’s schedule, but it definitely shows. This movie also needed the energy of a Chris Hart or a Dave Chapelle, and Lil Rex Howery (Dax) simply wasn’t able to carry the load as the movie’s “protagonist”.    
