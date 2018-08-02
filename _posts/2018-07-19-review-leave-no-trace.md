@@ -2,7 +2,7 @@
 layout: post
 title: "Leave No Trace"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1531882527/leave-no-trace.jpg'
-description: Remember the name Thomasin McKenzie, her brilliant performance should make her a force to be reckoned with for the forseeable future. 
+description: Remember the name Thomasin McKenzie, her brilliant performance should make her a force to be reckoned with for the foreseeable future. 
 category: 'drama'
 staring:
 - Thomasin McKenzie
@@ -12,8 +12,8 @@ director: Debra Granik
 writer: 
 - Anne Roselini
 - Debra Granik
-twitter_text: Remember the name Thomasin McKenzie, her brilliant performance should make her a force to be reckoned with for the forseeable future.
-introduction: Remember the name Thomasin McKenzie, her brilliant performance should make her a force to be reckoned with for the forseeable future.
+twitter_text: Remember the name Thomasin McKenzie, her brilliant performance should make her a force to be reckoned with for the foreseeable future.
+introduction: Remember the name Thomasin McKenzie, her brilliant performance should make her a force to be reckoned with for the foreseeable future.
 score: 93
 author: Zach Saul
 
