@@ -48,29 +48,22 @@ table.movie-credits td a:hover {background: #bbb;}
 #intro-banner {position: relative; height: 45vh;}
 #banner-wrapper {position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); padding-top: 40px;}
 #banner-wrapper p {font-size: 4rem; color: #fff; font-family: helvetica; display: inline-block;}
-#banner-wrapper img {height: 115px; display: inline-block;}
+#banner-wrapper img {height: 190px; display: inline-block;}
 @media screen and (max-width: 900px) {
-	#banner-wrapper img {height: 100px;}
+	#banner-wrapper img {height: 160px;}
 	#intro-banner {height: 40vh;}
 }
 @media screen and (max-width: 750px) {
-	#banner-wrapper img {height: 85px;}
+	#banner-wrapper img {height: 140px;}
 }
 @media screen and (max-width: 650px) {
-	#banner-wrapper img {height: 70px;}
+	#banner-wrapper img {height: 120px;}
 }
 @media screen and (max-width: 550px) {
-	#banner-wrapper img {height: 60px;}
+	#banner-wrapper img {height: 95px;}
 }
 @media screen and (max-width: 450px) {
-	#banner-wrapper img {height: 55px;}
+	#banner-wrapper img {height: 80px;}
 	#intro-banner {height: 30vh;}
 }
-@media screen and (max-width: 425px) {
-	#banner-wrapper img {height: 50px;}
-}
-@media screen and (max-width: 350px) {
-	#banner-wrapper img {height: 25px;}
-}
-
 
