@@ -2,15 +2,15 @@
 layout: post
 date: 2018-08-06
 title: "Eighth Grade"
+studio: A24
 category: 'dramedy'
 score: 95
 author: Zach Saul
 director: Bo Burnham
-writer: Bo Burnham
+written-by: Bo Burnham
 staring:
 - Elsie Fischer
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529979103/eighth-grade.jpg'
-date: 2018-07-27
 description: A 27-year old comedian wrote and directed the most nuanced and sophisticated movie about middle school I've ever seen. Parents, and hollywood executives, I hope you are taking notes.   
 introduction: A 27-year old comedian wrote and directed the most nuanced and sophisticated movie about middle school I've ever seen. Parents, and hollywood executives, I hope you are taking notes.
 twitter_text: A 27-year old comedian wrote and directed the most nuanced and sophisticated movie about middle school I've ever seen. Parents, and hollywood executives, I hope you are taking notes.
