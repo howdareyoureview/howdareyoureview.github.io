@@ -3,7 +3,7 @@ layout: main
 ---
 <div id="intro-banner">
     <div id="banner-wrapper">
-        <img id="intro-banner-logo" src="https://res.cloudinary.com/how-dare-you-review/image/upload/v1532288543/banner-logo-full.svg">
+        <img id="intro-banner-logo" src="https://res.cloudinary.com/how-dare-you-review/image/upload/v1532288543/hdyr-home-banner.svg">
     </div>
 </div>
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
