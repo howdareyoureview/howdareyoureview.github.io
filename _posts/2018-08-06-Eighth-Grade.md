@@ -11,9 +11,9 @@ written-by: Bo Burnham
 staring:
 - Elsie Fischer
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529979103/eighth-grade.jpg'
-description: A 27-year old comedian wrote and directed the most nuanced and sophisticated movie about middle school I've ever seen. Parents, and hollywood executives, I hope you are taking notes.   
-introduction: A 27-year old comedian wrote and directed the most nuanced and sophisticated movie about middle school I've ever seen. Parents, and hollywood executives, I hope you are taking notes.
-twitter_text: A 27-year old comedian wrote and directed the most nuanced and sophisticated movie about middle school I've ever seen. Parents, and hollywood executives, I hope you are taking notes.
+description: A 27-year old comedian wrote and directed the most honest, accurate movie about middle school I've ever seen. Parents, and hollywood executives, I hope you are taking notes.   
+introduction: A 27-year old comedian wrote and directed the most honest, accurate movie about middle school I've ever seen. Parents, and hollywood executives, I hope you are taking notes. 
+twitter_text: A 27-year old comedian wrote and directed the most honest, accurate movie about middle school I've ever seen. Parents, and hollywood executives, I hope you are taking notes. 
 ---
 
 
