@@ -12,7 +12,7 @@ staring:
 - Kate McKinnon
 - Mila Kunis
 - Hasan Mihnaj
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529979103/Spy-Who-Dumped-Me.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529979103/the-spy-who-dumped-me.jpg'
 description: McKinnon is excellent, but sadly the movie around her was about as uninteresting as it gets.   
 introduction: McKinnon is excellent, but sadly the movie around her was about as uninteresting as it gets.
 twitter_text: McKinnon is excellent, but sadly the movie around her was about as uninteresting as it gets.
