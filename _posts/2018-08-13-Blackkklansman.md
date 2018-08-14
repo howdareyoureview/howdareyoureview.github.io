@@ -13,7 +13,7 @@ score: 79
 introduction: Lee's klan comedy is sleek, funny, but ultimately cartoonish. Blackkklansman never quite achieves the impact it shoots for.
 twitter_text: Lee's klan comedy is sleek, funny, but ultimately cartoonish. Blackkklansman never quite achieves the impact it shoots for.
 author: Zach Saul
-image: https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529979103/blackkklansman.jpg
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529979103/blackkklansman.jpg'
 ---
 
 
