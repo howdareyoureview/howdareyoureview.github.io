@@ -1,18 +1,19 @@
 ---
 layout: post
 date: 2018-08-13
-Title: "Blackkklansman"
-Category: "comedy"
-Director: Spike Lee
-Staring: 
+title: "Blackkklansman"
+category: "comedy"
+director: Spike Lee
+staring: 
 - John David Washington
 - Adam Driver
 - Laura Harrier
-Description: Lee's klan comedy is sleek, funny, but ultimately cartoonish. Blackkklansman never quite achieves the impact it shoots for.
+description: Lee's klan comedy is sleek, funny, but ultimately cartoonish. Blackkklansman never quite achieves the impact it shoots for.
+score: 79
 introduction: Lee's klan comedy is sleek, funny, but ultimately cartoonish. Blackkklansman never quite achieves the impact it shoots for.
-Twitter_text: Lee's klan comedy is sleek, funny, but ultimately cartoonish. Blackkklansman never quite achieves the impact it shoots for.
-Author: Zach Saul
-Image: https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529979103/blackkklansman.jpg
+twitter_text: Lee's klan comedy is sleek, funny, but ultimately cartoonish. Blackkklansman never quite achieves the impact it shoots for.
+author: Zach Saul
+image: https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529979103/blackkklansman.jpg
 ---
 
 
