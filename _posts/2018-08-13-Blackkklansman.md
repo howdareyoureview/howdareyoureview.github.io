@@ -8,7 +8,6 @@ Staring:
 - John David Washington
 - Adam Driver
 - Laura Harrier
-image: https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529979103/eighth-grade.jpg
 Description: Lee's klan comedy is sleek, funny, but ultimately cartoonish. Blackkklansman never quite achieves the impact it shoots for.
 introduction: Lee's klan comedy is sleek, funny, but ultimately cartoonish. Blackkklansman never quite achieves the impact it shoots for.
 Twitter_text: Lee's klan comedy is sleek, funny, but ultimately cartoonish. Blackkklansman never quite achieves the impact it shoots for.
