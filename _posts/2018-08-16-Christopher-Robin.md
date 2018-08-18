@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-08-18
+date: 2018-08-16
 title: "Christopher Robin"
 category: "animated"
 director: Marc Forster
