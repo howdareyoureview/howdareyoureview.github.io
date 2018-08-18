@@ -10,7 +10,7 @@ director: Morgan Neville
 staring:
 - Fred Rodgers
 author: Zach Saul
-score: 84 
+score: 80 
 ---
 
 I had honestly forgotten a lot about Mr. Rodgers, his closet full of sweaters, and paper mâché sets. *Won't You be my Neighbor* reminded me and everyone else in the theatre about a remarkable - and revolutionary person. The man had an undeniable ability to connect with children in a way most adults dodn't fully understand. He believed wholeheartedly, and often to fault in people's goodness (once even stating his goal was to make "Goodness fashionable again"). 

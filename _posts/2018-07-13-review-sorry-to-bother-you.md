@@ -14,7 +14,7 @@ staring:
 - Lakieth Stanfield
 - Steven Yeun
 author: Zach Saul
-score: 94 
+score: 92 
 ---
 
 *Sorry to Bother You* is and endlessly creative piece of satire - and doesn't relent with it's message or its absurdity. Cassius (Lakieth Stanfield) is a struggling but ambitious young black man who falls into opportunity after opportunity by pandering to white people. One of the funniest and oddly poigniant scenes in the movie features Cassius (Lakeith Stanfield) attempting to "rap" against his will to a room full of which white people at their request. After two cringeworty rhymes Stanfield begins shouting "n*** shit, n*** shit, n*** shit, n*** n*** n*** shit" to which the room errupts in applause. Afterwards, the same white women who had been blankly staring in disgust looed at Cassius with lust and admiration in an instant. 

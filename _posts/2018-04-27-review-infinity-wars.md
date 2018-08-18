@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Avengers: Infinity Wars"
-image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529788824/infinity-war.jpg'
+image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529788824/infinity-wars.jpg'
 description: Worlds collide both literally and metaphorically in Infinity Wars - a comic book nerd's wet dream.
 category: 'superhero'
 staring: 

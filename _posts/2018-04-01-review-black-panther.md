@@ -8,7 +8,7 @@ staring:
 - Chadwick Boseman
 twitter_text: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness.
 introduction: Well-written characters, and an interesting premise make it an entertaining watch despite some cheesiness. 
-score: 80
+score: 82
 author: Zach Saul
 director: Ryan Coogler
 ---

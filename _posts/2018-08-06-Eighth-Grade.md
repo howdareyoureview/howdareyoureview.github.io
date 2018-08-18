@@ -11,9 +11,9 @@ written-by: Bo Burnham
 staring:
 - Elsie Fischer
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529979103/eighth-grade.jpg'
-description: Bo Burnham is 27, and he's already made a beautiful film wise beyond it's years. Parents, and hollywood executives, I hope were taking notes.   
-introduction: Bo Burnham is 27, and he's already made a beautiful film wise beyond it's years. Parents, and hollywood executives, I hope were taking notes. 
-twitter_text: Bo Burnham is 27, and he's already made a beautiful film wise beyond it's years. Parents, and hollywood executives, I hope were taking notes. 
+description: Bo Burnham is 27, and he's already made a beautiful film wise beyond it's years. Parents, and Hollywood executives, I hope you were taking notes.   
+introduction: Bo Burnham is 27, and he's already made a beautiful film wise beyond it's years. Parents, and Hollywood executives, I hope you were taking notes. 
+twitter_text: Bo Burnham is 27, and he's already made a beautiful film wise beyond it's years. Parents, and Hollywood executives, I hope you were taking notes. 
 ---
 
 

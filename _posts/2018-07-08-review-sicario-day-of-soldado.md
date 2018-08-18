@@ -14,7 +14,7 @@ staring:
  - Isabela Moner
 
 author: Zach Saul
-score: 87 
+score: 86 
 ---
 
 *Sicario: Day of the Soldado* isn't the masterpiece the original was, but it's a good action thriller nonetheless. Benicio Del Toro is still on my list of five action stars I call if I have to make an action movie to save my life, and Brolin has gotten really good at playing the villian at this point in his career. I'll begin this review by admitting that the premise of *Sicario Day of the Soldado* is absolutely riddiculous. The government attempting to insight a drug war between rival gangs as a way of stopping the pipeline of ISIS fighters in response to a terrorist attack didn't make much sense. The weakest parts of this movie were the scenes in the situation room, and the interactions between the secretary of Defense and Graver (Brolin) - which felt corny, inauthentic and out of place. However, to it's credit - when *Sicario: the Day of Soldado* exits the situation room and focusses on the drug cartels and those fighing the war against corruption: it shines. 

@@ -13,7 +13,7 @@ director: Charles Stone III
 writer: Jay Longino
 twitter_text: I'm sure it was fun to make, I just wish it was more fun to watch.
 introduction: I'm sure it was fun to make, I just wish it was more fun to watch.
-score: 55
+score: 50
 author: Zach Saul
 ---
 

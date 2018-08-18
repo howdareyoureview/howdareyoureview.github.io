@@ -12,7 +12,7 @@ staring:
 - Idris Elba
 twitter_text: Funny, fast paced and well-rounded, Ragnarok is one of the stronger Marvel installments of the past few years.
 introduction: Funny, fast paced and well-rounded, Ragnarok is one of the stronger Marvel installments of the past few years.
-score: 74
+score: 79
 author: Zach Saul
 ---
 

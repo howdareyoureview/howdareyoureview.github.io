@@ -8,7 +8,7 @@ staring:
 - ethan hawke
 twitter_text: First Reformed is egregiously mis-marketed, and badly underwritten. Religious symbols aren't enough to save this sleepy script.
 introduction: First Reformed is egregiously mis-marketed, and badly underwritten. Religious symbols aren't enough to save this sleepy script.
-score: 59
+score: 49
 author: Zach Saul
 director: Paul Schrader
 ---

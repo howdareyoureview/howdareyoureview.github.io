@@ -13,7 +13,7 @@ staring:
 - Scarlett Johansson
 twitter_text: Isle of Dogs is a beautiful, funny, and somewhat underwritten film.  
 introduction: Isle of Dogs is a beautiful, funny, and somewhat underwritten film.
-score: 91
+score: 89
 author: Zach Saul  
 director: Wes Anderson
 ---

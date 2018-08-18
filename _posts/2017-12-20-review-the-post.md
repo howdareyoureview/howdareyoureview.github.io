@@ -7,9 +7,9 @@ category: 'historical'
 staring: 
 - Tom Hanks
 - Meryl Streep
-twitter_text: Gary Oldman's transformation is remarkable, and the movie around him mostly holds up. 
-introduction: Gary Oldman's transformation is remarkable, and the movie around him mostly holds up. 
-score: 81
+twitter_text: Meryl Streep’s brilliance elevates an otherwise mediocre film about the tough choices newspapers have to make regularly. 
+introduction: Meryl Streep’s brilliance elevates an otherwise mediocre film about the tough choices newspapers have to make regularly. 
+score: 79
 author: Zach Saul
 director: Steven Spielberg
 ---

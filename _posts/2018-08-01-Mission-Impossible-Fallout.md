@@ -11,7 +11,7 @@ staring:
 - Vanessa Kirby
 twitter_text: Loud, unappolagetic, sleek, and sometimes gimmicky. Everything you'd want from an action movie is here and then some.
 introduction: Loud, unappolagetic, sleek, and sometimes gimmicky. Everything you'd want from an action movie is here and then some.
-score: 90
+score: 89
 author: Zach Saul
 director: Brian De Palma
 writer: Christopher McQuarrie

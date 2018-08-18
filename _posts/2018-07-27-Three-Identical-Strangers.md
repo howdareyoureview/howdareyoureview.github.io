@@ -2,7 +2,7 @@
 layout: post
 title: "Three Identical Strangers"
 category: 'doccumentary'
-score: 82
+score: 79
 author: Zach Saul
 director: Tim Wardle
 staring:
