@@ -66,4 +66,6 @@ table.movie-credits td a:hover {background: #bbb;}
 	#banner-wrapper img {height: 80px;}
 	#intro-banner {height: 30vh;}
 }
-
+@media screen and (max-width: 350px) {
+	#banner-wrapper img {height: 60px;}
+}
