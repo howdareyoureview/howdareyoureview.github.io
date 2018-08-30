@@ -15,7 +15,7 @@ HDYR is interested in reviewing movies in a way that reflects people’s psychol
 
 Have you ever seen an incredible, thought-provoking film with a few friends in theatres, and afterwards you all go home without discussing your thoughts?
 
-Do you feel outraged that “Crash” won best picture in 2006? Do you know someone who defends the academy’s choice to the death?
+Do you feel outraged that “Crash” won Best Picture in 2006? Do you know someone who defends the Academy’s choice to the death?
 
 Do you like when characters break the fourth wall, and do you think American teens should aspire to become Ferris Bueller?
 
