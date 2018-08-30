@@ -3,7 +3,7 @@ layout: post
 title: "Mission Impossible: Fallout"
 date: 2018-08-01 23:04:08
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1528671134/mission-impossible-fallout.jpg'
-description: A stylish, non-stop thrill-ride with plenty of twists, brawls, and cunning to make 147 minutes breeze by effortlessly. I hope it's not the last we see of Ethan Hunt.
+description: A stylish, non-stop thrill-ride with plenty of twists, brawls, and cunning to make 147 minutes breeze by effortlessly. I hope it's not the last we see of Ethan Hunt. -KV
 category: 'action'
 staring:
 - Tom Cruise
@@ -12,8 +12,8 @@ staring:
 - Rebecca Ferguson
 - Alec Baldwin
 - Vanessa Kirby
-twitter_text: A stylish, non-stop thrill-ride with plenty of twists, brawls, and cunning to make 147 minutes breeze by effortlessly. I hope it's not the last we see of Ethan Hunt.
-introduction: A stylish, non-stop thrill-ride with plenty of twists, brawls, and cunning to make 147 minutes breeze by effortlessly. I hope it's not the last we see of Ethan Hunt.
+twitter_text: A stylish, non-stop thrill-ride with plenty of twists, brawls, and cunning to make 147 minutes breeze by effortlessly. I hope it's not the last we see of Ethan Hunt. -KV
+introduction: A stylish, non-stop thrill-ride with plenty of twists, brawls, and cunning to make 147 minutes breeze by effortlessly. I hope it's not the last we see of Ethan Hunt. -KV
 score: 93
 author: Kleon Van
 director: Brian De Palma
