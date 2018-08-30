@@ -25,4 +25,4 @@ The ensemble cast is really strong, and Seth Rogan, Allison Brie, and Dave Franc
 
 The Good: The Disaster Artist does a really, really impressive job copying the most minute details of the Room - and definitely captured the spirit of those around the production, and the feelings that accompany us as an audience (watching the room).
 
-The Bad: It almost felt like I was watching a diehard Harry Potter fan's movie about the making of Chris Columbus' Harry Potter movies. Were the writers were too close to the source material? Does Franco hold The Room in such high regard, it blinded him from asking the bigger questions about the Worst Movie of all Time?
+The Bad: It almost felt like I was watching a diehard Harry Potter fan's movie about the making of Chris Columbus' Harry Potter movies. Were the writers were too close to the source material? Does Franco hold The Room in such high regard, it blinded him from asking the bigger questions about the worst movie of all time?
