@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-08-27
+date: 2018-10-05
 title: "A Star is Born"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529788824/a-star-is-born.jpg'
 description: Cooper’s film starring the unmasked Lady Gaga is an agonizing, surprising, flawed but heartfelt examination of stardom.     
