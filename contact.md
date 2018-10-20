@@ -14,7 +14,7 @@ permalink: /contact/
 
 <div class="container">
 
-  <h2>Want to talk? Like What you read? Did something we wrote offend you to your very core? We'd love to hear from you.</h2>
+  <h2>Want to talk? Like what you read? Did something we wrote offend you to your very core? We'd love to hear from you.</h2>
 
 
   <div id="form" class="contact-form">
@@ -41,7 +41,7 @@ permalink: /contact/
     </form>
   </div>
 
- <p>If you're insterested in becoming a contributor we'd also love to hear from you. Presently this is a project supported entirely by blood sweat and tears, and we can offer contributors exposure, and a cold crisp PBR in excange for their thoughts - but with any luck, we'll gain traction soon and contributors will all be given gold rolexes, and diamond tiarras.</p>
+ <p>If you're interested in becoming a contributor we'd also love to hear from you. Presently this is a project supported entirely by blood, sweat, and tears, so we can offer contributors exposure and a cold crisp PBR in exchange for their thoughts - but with any luck, we'll gain traction soon and contributors will all be given gold Rolexes and diamond tiaras.</p>
 </div>
 
 <script type="text/javascript">
