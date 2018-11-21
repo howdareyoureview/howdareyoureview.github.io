@@ -4,7 +4,7 @@ date: 2018-11-12
 title: "Beautiful Boy"
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529788824/beautiful-boy.jpg'
 description: Beautiful Boy has some gorgeous scenes in it, but falls short of it’s ambitions by throwing it’s emotional punches too early.             
-category: 'trajedy'
+category: 'tragedy'
 studio: Amazon Studios
 written-by: 
 - Luke Davies
