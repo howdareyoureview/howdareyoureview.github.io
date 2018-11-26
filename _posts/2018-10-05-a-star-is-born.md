@@ -16,7 +16,7 @@ twitter_text: Cooper’s film starring the unmasked Lady Gaga is an agonizing, s
 introduction: Cooper’s film starring the unmasked Lady Gaga is an agonizing, surprising, flawed but heartfelt examination of stardom.    
 author: Zach Saul
 director: Bradley Cooper
-score: 89 
+score: 93 
 ---
 
 
