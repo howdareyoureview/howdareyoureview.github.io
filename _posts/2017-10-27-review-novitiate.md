@@ -10,7 +10,7 @@ staring:
 - Margaret Qualley
 twitter_text: Novitiate is sensitive, thought-provoking, and intimate. It smartly navigates both skepticism and admiration for the Catholic Church.
 introduction: Novitiate is sensitive, thought-provoking, and intimate. It smartly navigates both skepticism and admiration for the Catholic Church.
-score: 88
+score: 90
 author: Zach Saul
 director: Maggie Betts
 ---

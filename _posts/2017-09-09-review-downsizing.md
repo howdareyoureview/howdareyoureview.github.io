@@ -9,7 +9,7 @@ staring:
 - Matt Damon
 - Kristen Wig
 introduction: What a waste of a great premise. I could have done without the tiny gigolos.
-score: 39
+score: 19
 author: Zach Saul
 director: Alexander Payne
 ---

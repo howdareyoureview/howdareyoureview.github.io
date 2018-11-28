@@ -17,7 +17,7 @@ twitter_text: Beautiful Boy has some gorgeous scenes in it, but falls short of i
 introduction: Beautiful Boy has some gorgeous scenes in it, but falls short of it’s ambitions by throwing it’s emotional punches too early.     
 author: Zach Saul
 director: Felix Van Groeningen
-score: 83 
+score: 76 
 ---
 
 

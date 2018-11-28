@@ -18,7 +18,7 @@ author: Zach Saul
 director: 
 - Dexter Fletcher
 - Bryan Singer
-score: 58 
+score: 51 
 ---
 
 

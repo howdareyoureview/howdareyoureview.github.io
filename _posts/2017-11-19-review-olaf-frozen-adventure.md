@@ -6,12 +6,12 @@ description: I want the name and phone numbers of everyone who worked on this mo
 category: 'animated'
 twitter_text: I want the name and phone numbers of everyone who worked on this movie so I can ask them if they've ever seen a cartoon, or better yet a child before.
 introduction: I want the name and phone numbers of everyone who worked on this movie so I can ask them if they've ever seen a cartoon, or better yet a child before.
-score: 35
+score: 7
 author: Zach Saul
 director: Kevin Deters
 ---
 
-I realize there are things in the world much more worthy of my anger and attention, but I'd like to remind everyone reading this; that nobody forced you to click on this review. A grade of "35" is in the title, so you knew what you were getting yourself into. On Wednesday night, myself, a very cranky group of four year olds, and a few work colleagues endured the worst 22 minutes I've spent in a movie theatre this decade.
+I realize there are things in the world much more worthy of my anger and attention, but I'd like to remind everyone reading this; that nobody forced you to click on this review. You saw a score of 7 and clicked anyway, so you knew what you were getting yourself into. On Wednesday night, myself, a very cranky group of four year olds, and a few work colleagues endured the worst 22 minutes I've spent in a movie theatre this decade.
 
 A group of executives somewhere in California sat together in a room probably blazed out of their minds, and thought a good plot for a Pixar "featurette" would include a snowman crying over a piece of lost gingerbread, and a door to door "tradition drive". Everything about this short is almost comically unimaginative, from the visuals, to the lazy narrative, to the curse preventing someone from having holiday traditions. To make matters worse - in the short each character Olaf meets sings him a different terrible musical number. Each number prompted me to have different Vietnam-style flashback to a mediocre karaoke song I've heard at a loud bar in the past month.
 

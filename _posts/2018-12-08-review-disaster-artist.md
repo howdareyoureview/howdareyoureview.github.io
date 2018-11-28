@@ -12,7 +12,7 @@ staring:
 - Seth Rogen
 twitter_text: The Disaster Artist misses the mark, and glazes over the interesting questions we have for The Room.
 introduction: The Disaster Artist misses the mark, and glazes over the interesting questions we have for The Room.
-score: 60
+score: 54
 author: Zach Saul
 director: James Franco
 ---

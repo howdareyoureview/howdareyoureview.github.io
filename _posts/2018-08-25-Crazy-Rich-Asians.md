@@ -18,7 +18,7 @@ twitter_text: Henry Golding has captured the gaze of every woman on earth this s
 introduction: Henry Golding has captured the gaze of every woman on earth this summer, thanks to the success of Crazy Rich Asians. The movie is probably more important than it is good, but still deserves our attention.
 author: Zach Saul
 director: Jon Chu
-score: 78
+score: 73
 ---
 
 

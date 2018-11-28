@@ -8,7 +8,7 @@ staring:
 - Katherine Langford
 twitter_text: Love, Simon deserves credit for breaking new ground, but that about all it deserves credit for. 
 introduction: Love, Simon deserves credit for breaking new ground, but that about all it deserves credit for.
-score: 63
+score: 57
 author: Zach Saul 
 director: Greg Berlanti
 ---
