@@ -18,7 +18,7 @@ staring:
 - Jake Johnson
 - Hailee Steinfeld
 - Liev Schreiber
-- Maharshala Ali
+- Mahershala Ali
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529979103/spiderman-into-the-spiderverse.jpg'
 description: As a fan of pop-art, style and animation, I’m blown away. As a fan of cohesive narrative and character development I’m left disappointed at what could have been.   
 introduction: As a fan of pop-art, style and animation, I’m blown away. As a fan of cohesive narrative and character development I’m left disappointed at what could have been.  
