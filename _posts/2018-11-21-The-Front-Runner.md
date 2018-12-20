@@ -3,7 +3,7 @@ layout: post
 date: 2018-11-21
 title: "The Front Runner"
 studio: Columbia Pictures
-category: 'Drama'
+category: 'Political Drama'
 score: 88
 author: Zach Saul
 director: Jason Reitman
