@@ -3,7 +3,7 @@ layout: post
 date: 2018-11-21
 title: "The Front Runner"
 studio: Columbia Pictures
-category: 'Political Drama'
+category: 'Drama'
 score: 88
 author: Zach Saul
 director: Jason Reitman
@@ -15,13 +15,11 @@ staring:
 - Hugh Jackman
 - Vera Farmiga
 - J.K Simmons
-- Mark O’Brien
 - Molly Ephraim
-- Chris Coy
 image: 'https://res.cloudinary.com/how-dare-you-review/image/upload/c_fill,h_399,w_760/v1529979103/the-front-runner.jpg'
-description: The Front Runner might ask more questions than it answers - but they’re really, really good questions. Reitman is asking us to hit pause, no matter how uncomfortable it might be, to talk about the birth of tabloid journalism.  
-introduction: The Front Runner might ask more questions than it answers - but they’re really, really good questions. Reitman is asking us to hit pause, no matter how uncomfortable it might be, to talk about the birth of tabloid journalism.
-twitter_text: The Front Runner might ask more questions than it answers - but they’re really, really good questions. Reitman is asking us to hit pause, no matter how uncomfortable it might be, to talk about the birth of tabloid journalism.
+description: The Front Runner might ask more questions than it answers, but they’re really, really good questions. Reitman is asking us to hit pause, no matter how uncomfortable it might be, to talk about the birth of tabloid journalism.  
+introduction: The Front Runner might ask more questions than it answers, but they’re really, really good questions. Reitman is asking us to hit pause, no matter how uncomfortable it might be, to talk about the birth of tabloid journalism.
+twitter_text: The Front Runner might ask more questions than it answers, but they’re really, really good questions. Reitman is asking us to hit pause, no matter how uncomfortable it might be, to talk about the birth of tabloid journalism.
 ---
 
 
